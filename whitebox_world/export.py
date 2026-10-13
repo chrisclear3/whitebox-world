@@ -6,7 +6,7 @@ def export_glb(filepath,scene):
     bpy.ops.object.select_all(action='DESELECT')
     for o in scene.objects:
         if any(c.name.startswith('WW_') for c in o.users_collection) and not o.hide_render and o.name!='WW_Fog':o.select_set(True)
-    bpy.ops.export_scene.gltf(filepath=os.path.abspath(filepath),export_format='GLB',use_selection=True,export_animations=True,export_animation_mode='ACTIVE_ACTIONS',export_frame_range=True,export_force_sampling=True)
+    bpy.ops.export_scene.gltf(filepath=os.path.abspath(filepath),export_format='GLB',use_selection=True,export_extras=True,export_animations=True,export_animation_mode='ACTIVE_ACTIONS',export_frame_range=True,export_force_sampling=True)
 
 
 def export_poses(filepath,scene):
