@@ -6,8 +6,8 @@ from whitebox_world.export import export_glb
 from whitebox_world.runtime import install_handler,update_actors
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/'artifacts/shibuya.blend'))
 s=bpy.context.scene;install_handler()
-assert len(bpy.data.collections['WW_Buildings'].objects)==105
-assert all(o.get('osm_id') for o in bpy.data.collections['WW_Buildings'].objects)
+assert len(bpy.data.collections['WW_Buildings'].all_objects)==105
+assert all(o.get('osm_id') for o in bpy.data.collections['WW_Buildings'].all_objects)
 assert not bpy.data.objects.get('Block_Building') and not bpy.data.objects.get('Main_Road_0')
 assert 'OpenStreetMap' in s['ww_map_attribution']
 assert bpy.data.texts.get('WW_MapSource.geojson')
@@ -15,7 +15,7 @@ for cfg in ({'require_real_map':True},{'require_real_map':True,'map_file':str(RO
     try:build(cfg)
     except ValueError:pass
     else:raise AssertionError('Strict real map accepted absent/synthetic source')
-assert len(bpy.data.collections['WW_Buildings'].objects)==105
+assert len(bpy.data.collections['WW_Buildings'].all_objects)==105
 actors=[o for o in s.objects if o.get('ww_actor')];assert len(actors)==2
 s.frame_set(1);p={o.name:o.location.copy() for o in actors};s.frame_set(25)
 assert all((o.location-p[o.name]).length>1 for o in actors)

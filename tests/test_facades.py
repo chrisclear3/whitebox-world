@@ -24,9 +24,9 @@ class FacadeTests(unittest.TestCase):
         self.assertFalse(any(spec[0][0] > 12 for specs in groups.values() for spec in specs))
 
     def test_shopfront_only_on_road_side(self):
-        self.assertFalse(plan_facades(SQUARE,12)['shopfronts'])
+        self.assertFalse(plan_facades(SQUARE,12,style='office')['shopfronts'])
         roads=[{'points':[(-10,-7),(22,-7)],'width':6}]
-        groups=plan_facades(SQUARE,12,roads=roads)
+        groups=plan_facades(SQUARE,12,roads=roads,style='office')
         self.assertTrue(groups['shopfronts'])
         self.assertTrue(all(spec[0][1] < 0 for spec in groups['shopfronts']))
         self.assertFalse(plan_facades(SQUARE,12,min_height=3,roads=roads)['shopfronts'])
@@ -41,7 +41,7 @@ class FacadeTests(unittest.TestCase):
     def test_winding_does_not_flip_outward(self):
         for ring in (SQUARE,list(reversed(SQUARE))):
             groups=plan_facades(ring,12)
-            self.assertTrue(all(x < 0 or x > 12 or y < 0 or y > 12
+            self.assertTrue(all(0 < x < 12 and 0 < y < 12
                                 for (x,y,z),_,_,_ in groups['glazing']))
 
     def test_source_tag_classifier(self):

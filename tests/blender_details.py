@@ -207,8 +207,8 @@ config.update(map_file=str(ROOT / 'configs/shibuya.geojson'), duration=1, fps=4,
 scene = build(config)
 refresh(scene)
 check_road_heights()
-assert len(bpy.data.collections['WW_Buildings'].objects) == 105
-assert all(o.get('osm_id') for o in bpy.data.collections['WW_Buildings'].objects)
+assert len(bpy.data.collections['WW_Buildings'].all_objects) == 105
+assert all(o.get('osm_id') for o in bpy.data.collections['WW_Buildings'].all_objects)
 assert 'OpenStreetMap' in scene['ww_map_attribution']
 assert bpy.data.texts.get('WW_MapSource.geojson')
 assert all(any(o.get('ww_feature') == key for o in scene.objects) for key in FEATURES)
