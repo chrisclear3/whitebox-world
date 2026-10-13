@@ -1,0 +1,7 @@
+reloading addon meta-data: whitebox_world '/tmp/whitebox-addon-test/addons/whitebox_world/__init__.py' (time-stamp change detected)
+Modules Installed () from '/workspace/scratch/dbd07ea8d395/whitebox-world/artifacts/whitebox_world_addon.zip' into '/tmp/whitebox-addon-test/addons'
+Info: Modules Installed () from '/workspace/scratch/dbd07ea8d395/whitebox-world/artifacts/whitebox_world_addon.zip' into '/tmp/whitebox-addon-test/addons'
+WHITEBOX_ZIP_INSTALL_OK
+Blender 4.3.2
+
+Blender quit

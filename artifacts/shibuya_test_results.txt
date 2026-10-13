@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 48641)
-Total output lines: 2891
-
 ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
 01:30:11 | INFO: Starting glTF 2.0 export
 01:30:11 | INFO: Extracting primitive: Cube.001
@@ -211,7 +208,2491 @@ ERROR Draco mesh compression is not available because library could not be found
 01:30:11 | INFO: Primitives created: 1
 01:30:11 | INFO: Extracting primitive: way/1335178869
 01:30:11 | INFO: Primitives created: 1
-0…43641 tokens truncated…be.427
+01:30:11 | INFO: Extracting primitive: way/1391515611
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1419376020
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.002
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.003
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.004
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.005
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.006
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.007
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.008
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.009
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.010
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.011
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.012
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.013
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.014
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.015
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.016
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.017
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.018
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.019
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.020
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.021
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.022
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.023
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.024
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.025
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.026
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.027
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.028
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.029
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.030
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.031
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.032
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.033
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.034
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.035
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.036
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.037
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.038
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.039
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.040
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.041
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.042
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.043
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.044
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.045
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.046
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.047
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.048
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.049
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.050
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.051
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.052
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.053
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.054
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.055
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.056
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.057
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.058
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.059
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.060
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.061
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.062
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.063
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.064
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.065
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.066
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.067
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.068
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.069
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.070
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.071
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.072
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.073
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.074
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.075
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.076
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.077
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.078
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.079
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.080
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.081
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.082
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.083
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.084
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.085
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.086
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.087
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.088
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.089
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.090
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.091
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.092
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.093
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.094
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.095
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.096
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.097
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.098
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.099
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.100
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.101
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.102
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.103
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.104
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.105
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.106
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.107
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.108
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.109
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.110
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.111
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.112
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.113
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.114
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.115
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.116
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.117
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.118
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.119
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.120
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.121
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.122
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.123
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.124
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.125
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.126
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.127
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.128
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.129
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.130
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.131
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.132
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.133
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.134
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.135
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.136
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.137
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.138
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.139
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.140
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.141
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.142
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.143
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.144
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.145
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.146
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.147
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.148
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.149
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.150
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.151
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.152
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.153
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.154
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.155
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.156
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.157
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.158
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.159
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.160
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.161
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.162
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.163
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.164
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.165
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.166
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.167
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.168
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.169
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.170
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.171
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.172
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.173
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.174
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.175
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.176
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.177
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.178
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.179
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.180
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.181
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.182
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.183
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.184
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.185
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.186
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.187
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.188
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.189
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.190
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.191
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.192
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.193
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.194
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.195
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.196
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.197
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.198
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.199
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.200
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.201
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.202
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.203
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.204
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.205
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.206
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.207
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.208
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.209
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.210
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.211
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.212
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.213
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.214
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.215
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.216
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.217
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.218
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.219
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.220
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.221
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.222
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.223
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.224
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.225
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.226
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.227
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.228
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.229
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.230
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.231
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.232
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.233
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.234
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.235
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.236
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.237
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Cube.238
+01:30:11 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.239
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.240
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.241
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.242
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.243
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.244
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.245
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.246
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.247
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.248
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.249
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.250
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.251
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.252
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.253
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.254
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.255
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.256
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.257
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.258
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.259
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.260
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.261
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.262
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.263
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.264
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.265
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.266
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.267
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.268
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.269
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.270
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.271
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.272
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.273
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.274
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.275
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.276
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.277
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.278
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.279
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.280
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.281
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.282
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.283
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.284
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.285
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.286
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.287
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.288
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.289
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.290
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.291
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.292
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.293
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.294
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.295
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.296
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.297
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.298
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.299
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.300
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.301
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.302
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.303
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.304
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.305
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.306
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.307
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.308
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.309
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.310
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.311
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.312
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.313
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.314
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.315
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.316
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.317
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.318
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.319
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.320
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.321
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.322
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.323
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.324
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.325
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.326
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.327
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.328
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.329
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.330
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.331
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.332
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.333
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.334
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.335
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.336
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.337
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.338
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.339
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.340
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.341
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.342
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.343
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.344
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.345
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.346
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.347
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.348
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.349
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.350
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.351
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.352
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.353
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.354
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.355
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.356
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.357
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.358
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.359
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.360
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.361
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.362
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.363
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.364
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.365
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.366
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.367
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.368
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.369
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.370
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.371
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.372
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.373
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.374
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.375
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.376
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.377
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.378
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.379
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.380
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.381
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.382
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.383
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.384
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.385
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.386
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.387
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.388
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.389
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.390
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.391
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.392
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.393
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.394
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.395
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.396
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.397
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.398
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.399
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.400
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.401
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.402
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.403
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.404
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.405
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.406
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.407
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.408
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.409
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.410
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.411
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.412
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.413
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.414
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.415
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.416
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.417
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.418
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.419
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.420
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.421
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.422
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.423
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.424
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.425
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.426
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.427
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.428
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.429
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.430
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.431
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.432
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.433
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.434
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.435
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.436
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.437
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.438
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.439
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.440
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.441
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.442
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.443
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.444
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.445
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.446
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.447
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.448
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.449
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.450
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.451
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.452
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.453
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.454
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.455
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.456
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.457
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.458
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.459
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.460
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.461
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.462
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.463
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.464
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.465
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.466
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.467
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.468
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.469
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.470
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.471
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.472
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.473
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.474
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.475
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.476
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.477
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.478
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.479
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.480
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.481
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.482
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.483
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.484
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.485
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.486
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.487
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.488
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.489
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.490
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.491
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.492
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.493
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.494
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.495
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.496
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.497
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.498
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.499
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.500
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.501
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.502
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.503
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.504
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.505
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.506
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.507
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.508
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.509
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.510
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.511
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.512
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.513
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.514
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.515
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.516
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.517
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.518
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.519
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.520
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.521
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.522
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.523
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.524
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.525
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.526
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.527
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.528
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.529
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.530
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.531
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.532
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.533
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.534
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.535
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.536
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.537
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.538
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.539
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.540
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.541
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.542
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.543
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.544
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.545
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.546
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.547
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.548
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.549
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.550
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.551
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.552
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.553
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.554
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.555
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.556
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.557
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.558
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.559
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.560
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.561
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.562
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.563
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.564
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.565
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.566
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.567
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.568
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.569
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.570
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.571
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.572
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.573
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.574
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.575
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.576
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.577
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.578
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.579
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.580
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.581
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.582
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.583
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.584
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.585
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.586
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.587
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.588
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.589
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.590
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.591
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.592
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.593
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.594
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.595
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.596
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.597
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.598
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.599
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.600
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.601
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.602
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.603
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.604
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.605
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.608
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.610
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Icosphere
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.607
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.609
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.606
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.611
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.612
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.613
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cube.614
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cylinder
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cylinder.001
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cylinder.002
+01:30:12 | INFO: Primitives created: 1
+01:30:12 | INFO: Extracting primitive: Cylinder.003
+01:30:12 | INFO: Primitives created: 1
+01:30:17 | INFO: Finished glTF 2.0 export in 6.2256574630737305 s
+Blender 4.3.2
+Read blend: "/workspace/scratch/dbd07ea8d395/whitebox-world/artifacts/shibuya.blend"
+Fra:1 Mem:66.42M (Peak 66.42M) | Time:00:00.28 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ground
+Fra:1 Mem:66.42M (Peak 66.42M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧西武渋谷店A館
+Fra:1 Mem:66.42M (Peak 66.42M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷駅前会館(飯島ビル)
+Fra:1 Mem:66.42M (Peak 66.42M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/60739633
+Fra:1 Mem:66.43M (Peak 66.43M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷マークシティEAST
+Fra:1 Mem:66.43M (Peak 66.43M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ビックカメラ
+Fra:1 Mem:66.43M (Peak 66.43M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷パークサイド共同ビル
+Fra:1 Mem:66.43M (Peak 66.43M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | MAGNET SHIBUYA
+Fra:1 Mem:66.44M (Peak 66.44M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/120105790
+Fra:1 Mem:66.44M (Peak 66.44M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/120105799
+Fra:1 Mem:66.44M (Peak 66.44M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/120105802
+Fra:1 Mem:66.44M (Peak 66.44M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 江島屋ビル
+Fra:1 Mem:66.44M (Peak 66.44M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 高木ビルディング
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/129061825
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587679
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587688
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587710
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587715
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 岩崎ビル
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587722
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587734
+Fra:1 Mem:66.45M (Peak 66.45M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587748
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 釜焼鳥本舗 おやひなや
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 藤山恒産第一ビル
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.29 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587820
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587824
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587831
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587833
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136587839
+Fra:1 Mem:66.46M (Peak 66.46M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690943
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | マツモトキヨシ
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690946
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690947
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690948
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690950
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690954
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690963
+Fra:1 Mem:66.47M (Peak 66.47M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690966
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690967
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136690969
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ABCマート
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691343
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | センタービル
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691347
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691350
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691352
+Fra:1 Mem:66.48M (Peak 66.48M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691360
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691361
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 好乃ビル
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691365
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691366
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ダッキープラザ
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691381
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136691384
+Fra:1 Mem:66.49M (Peak 66.49M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Q-FRONT
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 横田ビル
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷平和クワトロビル
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Zara
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷住友信託ビル
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 片倉コープアグリ渋谷ビル
+Fra:1 Mem:66.50M (Peak 66.50M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 丸大ビル
+Fra:1 Mem:66.50M (Peak 66.51M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/138670865
+Fra:1 Mem:66.51M (Peak 66.51M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/138670882
+Fra:1 Mem:66.51M (Peak 66.51M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/138670888
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/142438895
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155538676
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155749492
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155807205
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155807209
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155807210
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155807211
+Fra:1 Mem:66.52M (Peak 66.52M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/155807215
+Fra:1 Mem:66.53M (Peak 66.53M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355250634
+Fra:1 Mem:66.53M (Peak 66.53M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/548299162
+Fra:1 Mem:66.53M (Peak 66.53M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/551944268
+Fra:1 Mem:66.53M (Peak 66.53M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/844691964
+Fra:1 Mem:66.54M (Peak 66.54M) | Time:00:00.30 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/858994297
+Fra:1 Mem:66.54M (Peak 66.54M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652318
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1233446447
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1233446448
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 美奈津ビル
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | メトロビル
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333090439
+Fra:1 Mem:66.55M (Peak 66.55M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409426
+Fra:1 Mem:66.57M (Peak 66.57M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409427
+Fra:1 Mem:66.57M (Peak 66.57M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | しぶにしデッキ
+Fra:1 Mem:66.57M (Peak 66.57M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178869
+Fra:1 Mem:66.57M (Peak 66.57M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1419376020
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_2
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_3
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_4
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/37865047_0
+Fra:1 Mem:66.58M (Peak 66.58M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/37865047_1
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/37865047_2
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/37865064_0
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/46769498_0
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/46769498_1
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041059_0
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041059_1
+Fra:1 Mem:66.59M (Peak 66.59M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041059_2
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041059_6
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041059_7
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48041060_1
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391489_0
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391489_1
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391489_2
+Fra:1 Mem:66.60M (Peak 66.60M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391489_3
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391489_4
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391530_0
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391530_1
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391530_2
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391623_0
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/48391623_1
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_0
+Fra:1 Mem:66.61M (Peak 66.61M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_1
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_2
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_3
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_4
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_5
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/55895867_6
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 1_1
+Fra:1 Mem:66.62M (Peak 66.62M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 1_2
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 1_3
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 2_0
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 2_1
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/84154030 2_2
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_0
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_2
+Fra:1 Mem:66.63M (Peak 66.63M) | Time:00:00.31 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ウェーヴ通り_0
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ウェーヴ通り_1
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ウェーヴ通り_5
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/116806275_0
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/116806275_1
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/116806275_2
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/129061810_0
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136729991_0
+Fra:1 Mem:66.64M (Peak 66.64M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136729995_0
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/136729995_1
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_0
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/198521350_0
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/198521350_1
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_0
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_2
+Fra:1 Mem:66.65M (Peak 66.65M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_3
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_4
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_5
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_6
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_7
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_8
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_9
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_10
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 井ノ頭通り_11
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_0
+Fra:1 Mem:66.66M (Peak 66.66M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_1
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_2
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.002
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.003
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.001
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_2
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_3
+Fra:1 Mem:66.67M (Peak 66.67M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_4
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/215956002_2
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/215956003_0
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/215956003_1
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/257223003_0
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.004
+Fra:1 Mem:66.68M (Peak 66.68M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.002
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_2.001
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.006
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.003
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.007
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.008
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/266086968_0
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.009
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.010
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.011
+Fra:1 Mem:66.69M (Peak 66.69M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.012
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.005
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_2.002
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_3.001
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/350053207_0
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/350053207_1
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248078_1
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248079_0
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248079_2
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248080_0
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248080_1
+Fra:1 Mem:66.70M (Peak 66.70M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248081_0
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248081_1
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248083_0
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248420_0
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355248423_0
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355252210_0
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355252210_1
+Fra:1 Mem:66.71M (Peak 66.71M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253411_1
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253411_3
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_0
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_1
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_2
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_3
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_4
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_5
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355253412_6
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_0
+Fra:1 Mem:66.72M (Peak 66.72M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_2
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_3
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_4
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_5
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_6
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_7
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_8
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_9
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_10
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_11
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254045_12
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254165_0
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254165_1
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/355254165_2
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165785_0
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165785_1
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165785_2
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165786_0
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165786_1
+Fra:1 Mem:66.74M (Peak 66.74M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/372165787_2
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.013
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.006
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_2.003
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_4.001
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_5
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_6
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.014
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.007
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821274_0
+Fra:1 Mem:66.75M (Peak 66.75M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821274_1
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821274_2
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821274_3
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821274_4
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821276_0
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821276_1
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821276_2
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821276_3
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/522821276_4
+Fra:1 Mem:66.76M (Peak 66.76M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_0.001
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_1.001
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_2.001
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_3
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_4
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_5
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_6
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_7
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_8
+Fra:1 Mem:66.77M (Peak 66.77M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_9
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_10
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_11
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 渋谷センター街_12
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664528842_0
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664528842_1
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532506_0
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532506_1
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532507_0
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532507_1
+Fra:1 Mem:66.78M (Peak 66.78M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532520_0
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532520_1
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532520_2
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532520_3
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532521_0
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532521_1
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532522_0
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532522_1
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532523_0
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532523_1
+Fra:1 Mem:66.79M (Peak 66.79M) | Time:00:00.32 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532523_2
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532524_0
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532524_1
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532525_0
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532525_1
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532525_2
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532525_3
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532526_0
+Fra:1 Mem:66.80M (Peak 66.80M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532526_1
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664532526_2
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664740804_0
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664740804_1
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664819011_0
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664819011_1
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664819011_2
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664869088_0
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664869088_1
+Fra:1 Mem:66.81M (Peak 66.81M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871980_0
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871980_1
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871980_2
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871980_3
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871981_0
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871981_1
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871981_2
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871982_0
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871982_1
+Fra:1 Mem:66.82M (Peak 66.82M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871985_0
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871985_1
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871985_2
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871985_3
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871986_0
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871986_1
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664871986_2
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664877555_0
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664877555_1
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454447_0
+Fra:1 Mem:66.83M (Peak 66.83M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454447_1
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454448_0
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454448_1
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454449_0
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/754454449_1
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/759282404_0
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/759282404_1
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/759282404_2
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/759282404_3
+Fra:1 Mem:66.84M (Peak 66.84M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652299_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652299_1
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652300_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652301_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652303_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652303_1
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652303_2
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652306_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652315_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652317_0
+Fra:1 Mem:66.85M (Peak 66.85M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652317_1
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652338_0
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652339_0
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652339_1
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652341_0
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652341_1
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652341_2
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652353_0
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652353_1
+Fra:1 Mem:66.86M (Peak 66.86M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652354_0
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652354_1
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652354_2
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652355_0
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652355_1
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652355_2
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652356_0
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904652356_1
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734428_0
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734428_1
+Fra:1 Mem:66.87M (Peak 66.87M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734429_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734429_1
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734431_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/904734432_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194242_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194250_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194250_1
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194250_2
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194255_0
+Fra:1 Mem:66.88M (Peak 66.88M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194255_1
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194255_2
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194257_0
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194258_0
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194258_1
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194258_2
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194259_0
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194259_1
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194260_0
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194261_0
+Fra:1 Mem:66.89M (Peak 66.89M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194262_0
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194262_1
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_1
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_2
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_3
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_4
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_6
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_7
+Fra:1 Mem:66.90M (Peak 66.90M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194271_8
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194273_0
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194274_0
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194274_1
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_0
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_1
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_2
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.33 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_3
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_4
+Fra:1 Mem:66.91M (Peak 66.91M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194282_5
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194284_0
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194284_2
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194284_3
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194288_0
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194288_2
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_0
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_1
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_2
+Fra:1 Mem:66.92M (Peak 66.92M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_3
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_4
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_5
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194289_6
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194290_0
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194290_1
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194291_0
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194291_1
+Fra:1 Mem:66.93M (Peak 66.93M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194291_2
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194292_0
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194293_0
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194293_1
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194293_2
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194293_3
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194293_4
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194295_0
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/906194295_1
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916824_0
+Fra:1 Mem:66.94M (Peak 66.94M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916824_1
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916825_0
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916825_1
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916825_2
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/977916826_0
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.016
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129756_0
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_0
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_1
+Fra:1 Mem:66.95M (Peak 66.95M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_2
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_3
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_4
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_5
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_6
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1033129758_7
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.001
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_0.001
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1066171778_0
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1066171778_1
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1066171779_0
+Fra:1 Mem:66.96M (Peak 66.96M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1066171780_0
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_0
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_1
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_2
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_3
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_4
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_0.001
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1067222064_5
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_1.001
+Fra:1 Mem:66.97M (Peak 66.97M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_2.001
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_0.002
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1074513107_0
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1074513107_1
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1074513107_2
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1074513109_0
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1082021490_0
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392180_0
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392180_1
+Fra:1 Mem:66.98M (Peak 66.98M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392181_0
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392181_1
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392181_2
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083392181_3
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083467991_0
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083467991_1
+Fra:1 Mem:66.99M (Peak 66.99M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083468021_0
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083468022_0
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1083468022_2
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.002
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.017
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.003
+Fra:1 Mem:67.00M (Peak 67.00M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680534_0
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680535_0
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680535_1
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680535_2
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680535_3
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680535_4
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680536_0
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1109680537_0
+Fra:1 Mem:67.01M (Peak 67.01M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.004
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_0.002
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1112568719_0
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1112568719_1
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1112568719_2
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1112568719_3
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1112568719_4
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | のんべい横丁_0
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | のんべい横丁_1
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | のんべい横丁_2
+Fra:1 Mem:67.02M (Peak 67.02M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | のんべい横丁_3
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_0
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_1
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_2
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_3
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_4
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_5
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1115659358_6
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | のんべい横丁_0.001
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_0.003
+Fra:1 Mem:67.03M (Peak 67.03M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 旧大山街道_1.002
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.018
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.008
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_2.004
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.005
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_1.001
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_2.001
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.019
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.006
+Fra:1 Mem:67.04M (Peak 67.04M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_0.003
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_1
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 文化村通り_2
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.007
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1143863678_0
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.020
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.34 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.009
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.021
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_1.010
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1151968434_0
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.022
+Fra:1 Mem:67.05M (Peak 67.05M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1156909227_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1157451161_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1160235255_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1160235255_1
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1160235256_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1160235256_1
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1160235257_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1213763565_0
+Fra:1 Mem:67.06M (Peak 67.06M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1256602978_0
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305031_0
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305031_1
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305031_2
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_0
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_1
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_2
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_3
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_4
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_5
+Fra:1 Mem:67.07M (Peak 67.07M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1274305382_6
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.008
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_1.002
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 道玄坂_0.009
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1330873764_0
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1330873764_1
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1330873764_2
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1330873764_3
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409428_1
+Fra:1 Mem:67.08M (Peak 67.08M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409428_2
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409429_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409429_1
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409430_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409431_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1333409441_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178865_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178866_0
+Fra:1 Mem:67.09M (Peak 67.09M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178866_1
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178867_0
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178868_0
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178868_1
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178870_0
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178870_1
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178870_2
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178870_3
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178871_0
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178872_0
+Fra:1 Mem:67.10M (Peak 67.10M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178873_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178873_1
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178874_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178875_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178876_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178877_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178878_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178878_1
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178879_0
+Fra:1 Mem:67.11M (Peak 67.11M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_0
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_1
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_2
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_3
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_5
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_6
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_7
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178880_8
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178881_0
+Fra:1 Mem:67.12M (Peak 67.12M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178882_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.35 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178883_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178883_1
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178884_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1335178885_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1349961227_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1349961228_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1354871465_0
+Fra:1 Mem:67.13M (Peak 67.13M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1354871465_1
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1378908402_0
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1378908402_1
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1378908403_0
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1378908403_1
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1378908403_2
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679906_0
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679906_1
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679906_2
+Fra:1 Mem:67.14M (Peak 67.14M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679906_3
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679907_0
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679907_1
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679907_2
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1380679907_3
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.023
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.024
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.36 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391280801_0
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391280802_0
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391280802_1
+Fra:1 Mem:67.15M (Peak 67.15M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.025
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 間坂_0
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 間坂_1
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515610_0
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515612_0
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515613_0
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515613_1
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515613_2
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515614_0
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1391515614_1
+Fra:1 Mem:67.16M (Peak 67.16M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 神宮通り_0.026
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1419376016_0
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1419376016_1
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1419376018_0
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1447200216_0
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1462471075_0
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1462471075_1
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1463027843_0
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1463027843_1
+Fra:1 Mem:67.17M (Peak 67.17M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1470018197_0
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031454_0
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031454_1
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031454_2
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031455_0
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031455_1
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031456_0
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031456_1
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031457_0
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031457_1
+Fra:1 Mem:67.18M (Peak 67.18M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031458_0
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031458_1
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031458_2
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031458_3
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031458_4
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031459_0
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031459_1
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031460_0
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031460_1
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031460_2
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031460_3
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031465_0
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031466_0
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031466_1
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1507031474_0
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1560851970_0
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1560851970_1
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1560851970_3
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664740806_0
+Fra:1 Mem:67.20M (Peak 67.20M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/664740806_1
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_Torso
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | way/1560851970_2
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_Head
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_Leg
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_ArmMesh
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_Leg.001
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Walker_ArmMesh.001
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Body
+Fra:1 Mem:67.21M (Peak 67.21M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Cabin
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Wheel
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Wheel.001
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Wheel.002
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Wheel.003
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Light
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shibuya_Car_Light.001
+Fra:1 Mem:67.22M (Peak 67.22M) | Time:00:00.37 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:43.41M (Peak 67.22M) | Time:00:00.40 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:43.41M (Peak 67.22M) | Time:00:00.41 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:43.41M (Peak 67.22M) | Time:00:00.41 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:43.41M (Peak 67.22M) | Time:00:00.41 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:43.50M (Peak 67.22M) | Time:00:00.41 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:43.67M (Peak 67.22M) | Time:00:00.41 | Mem:0.17M, Peak:0.17M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:43.67M (Peak 67.22M) | Time:00:00.41 | Mem:0.17M, Peak:0.17M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:43.67M (Peak 67.22M) | Time:00:00.41 | Mem:0.17M, Peak:0.17M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:43.67M (Peak 67.22M) | Time:00:00.41 | Mem:0.17M, Peak:0.17M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:43.82M (Peak 67.22M) | Time:00:00.42 | Mem:0.17M, Peak:0.17M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:44.04M (Peak 67.22M) | Time:00:00.42 | Mem:0.22M, Peak:0.22M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:43.93M (Peak 67.22M) | Time:00:00.42 | Mem:0.29M, Peak:0.29M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:43.94M (Peak 67.22M) | Time:00:00.42 | Mem:0.29M, Peak:0.29M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:43.94M (Peak 67.22M) | Time:00:00.43 | Mem:0.58M, Peak:0.58M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:43.94M (Peak 67.22M) | Time:00:00.44 | Mem:0.96M, Peak:1.26M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:43.94M (Peak 67.22M) | Time:00:00.44 | Mem:0.96M, Peak:1.26M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:0.96M, Peak:1.26M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.34M, Peak:1.34M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.34M, Peak:1.34M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.35M, Peak:1.35M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.35M, Peak:1.35M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.35M, Peak:1.35M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.43M, Peak:1.43M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.43M, Peak:1.43M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.43M, Peak:1.43M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:44.32M (Peak 67.22M) | Time:00:00.44 | Mem:1.43M, Peak:1.43M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:44.33M (Peak 67.22M) | Time:00:00.45 | Mem:1.35M, Peak:1.43M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:44.33M (Peak 67.22M) | Time:00:00.45 | Mem:1.44M, Peak:1.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:44.33M (Peak 67.22M) | Time:00:00.45 | Mem:1.44M, Peak:1.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:44.34M (Peak 67.22M) | Time:00:00.45 | Mem:1.44M, Peak:1.44M | Scene, ViewLayer | Sample 0/64
+Fra:1 Mem:92.46M (Peak 92.46M) | Time:00:01.66 | Remaining:01:16.45 | Mem:49.50M, Peak:49.50M | Scene, ViewLayer | Sample 1/64
+Fra:1 Mem:92.46M (Peak 92.46M) | Time:00:23.44 | Remaining:00:21.60 | Mem:49.50M, Peak:49.50M | Scene, ViewLayer | Sample 33/64
+Fra:1 Mem:113.82M (Peak 156.55M) | Time:00:42.85 | Mem:49.50M, Peak:49.50M | Scene, ViewLayer | Sample 64/64
+Fra:1 Mem:113.82M (Peak 156.55M) | Time:00:42.85 | Mem:49.50M, Peak:49.50M | Scene, ViewLayer | Finished
+Saved: '/workspace/scratch/dbd07ea8d395/whitebox-world/artifacts/shibuya.png'
+Time: 00:43.61 (Saving: 00:00.75)
+
+
+Info: Saved "shibuya.blend"
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/agent/.config/blender').
+01:31:02 | INFO: Data are loaded, start creating Blender stuff
+01:31:02 | INFO: Blender create Mesh node Cube.001
+01:31:02 | INFO: Blender create Mesh node 旧西武渋谷店A館
+01:31:02 | INFO: Blender create Mesh node 渋谷駅前会館(飯島ビル)
+01:31:02 | INFO: Blender create Mesh node way/60739633
+01:31:02 | INFO: Blender create Mesh node 渋谷駅前ビル
+01:31:02 | INFO: Blender create Mesh node 渋谷マークシティEAST
+01:31:02 | INFO: Blender create Mesh node 渋谷第一勧銀共同ビル
+01:31:02 | INFO: Blender create Mesh node ビックカメラ
+01:31:02 | INFO: Blender create Mesh node way/116806276
+01:31:02 | INFO: Blender create Mesh node FPG Links Shibuya
+01:31:02 | INFO: Blender create Mesh node 渋谷パークサイド共同ビル
+01:31:02 | INFO: Blender create Mesh node MAGNET SHIBUYA
+01:31:02 | INFO: Blender create Mesh node way/120105790
+01:31:02 | INFO: Blender create Mesh node way/120105799
+01:31:02 | INFO: Blender create Mesh node way/120105802
+01:31:02 | INFO: Blender create Mesh node way/120105807
+01:31:02 | INFO: Blender create Mesh node 江島屋ビル
+01:31:02 | INFO: Blender create Mesh node 高木ビルディング
+01:31:02 | INFO: Blender create Mesh node way/129061825
+01:31:02 | INFO: Blender create Mesh node way/136587679
+01:31:02 | INFO: Blender create Mesh node way/136587688
+01:31:02 | INFO: Blender create Mesh node way/136587710
+01:31:02 | INFO: Blender create Mesh node way/136587715
+01:31:02 | INFO: Blender create Mesh node 岩崎ビル
+01:31:02 | INFO: Blender create Mesh node way/136587722
+01:31:02 | INFO: Blender create Mesh node way/136587734
+01:31:02 | INFO: Blender create Mesh node way/136587748
+01:31:02 | INFO: Blender create Mesh node 釜焼鳥本舗 おやひなや
+01:31:02 | INFO: Blender create Mesh node 藤山恒産第一ビル
+01:31:02 | INFO: Blender create Mesh node way/136587820
+01:31:02 | INFO: Blender create Mesh node way/136587824
+01:31:02 | INFO: Blender create Mesh node way/136587831
+01:31:02 | INFO: Blender create Mesh node way/136587833
+01:31:02 | INFO: Blender create Mesh node way/136587839
+01:31:02 | INFO: Blender create Mesh node way/136690943
+01:31:02 | INFO: Blender create Mesh node マツモトキヨシ
+01:31:02 | INFO: Blender create Mesh node way/136690946
+01:31:02 | INFO: Blender create Mesh node way/136690947
+01:31:02 | INFO: Blender create Mesh node way/136690948
+01:31:02 | INFO: Blender create Mesh node way/136690950
+01:31:02 | INFO: Blender create Mesh node way/136690954
+01:31:02 | INFO: Blender create Mesh node way/136690963
+01:31:02 | INFO: Blender create Mesh node way/136690966
+01:31:02 | INFO: Blender create Mesh node way/136690967
+01:31:02 | INFO: Blender create Mesh node way/136690969
+01:31:02 | INFO: Blender create Mesh node ABCマート
+01:31:02 | INFO: Blender create Mesh node way/136691343
+01:31:02 | INFO: Blender create Mesh node センタービル
+01:31:02 | INFO: Blender create Mesh node way/136691347
+01:31:02 | INFO: Blender create Mesh node way/136691350
+01:31:02 | INFO: Blender create Mesh node way/136691352
+01:31:02 | INFO: Blender create Mesh node way/136691360
+01:31:02 | INFO: Blender create Mesh node way/136691361
+01:31:02 | INFO: Blender create Mesh node 好乃ビル
+01:31:02 | INFO: Blender create Mesh node way/136691365
+01:31:02 | INFO: Blender create Mesh node way/136691366
+01:31:02 | INFO: Blender create Mesh node ダッキープラザ
+01:31:02 | INFO: Blender create Mesh node 鉄人門渋ビルヂング
+01:31:02 | INFO: Blender create Mesh node センター244ビル
+01:31:02 | INFO: Blender create Mesh node way/136691381
+01:31:02 | INFO: Blender create Mesh node 渋谷ブラザービル
+01:31:02 | INFO: Blender create Mesh node way/136691384
+01:31:02 | INFO: Blender create Mesh node Q-FRONT
+01:31:02 | INFO: Blender create Mesh node 横田ビル
+01:31:02 | INFO: Blender create Mesh node 渋谷平和クワトロビル
+01:31:02 | INFO: Blender create Mesh node Zara
+01:31:02 | INFO: Blender create Mesh node 渋谷住友信託ビル
+01:31:02 | INFO: Blender create Mesh node 片倉コープアグリ渋谷ビル
+01:31:02 | INFO: Blender create Mesh node 丸大ビル
+01:31:02 | INFO: Blender create Mesh node way/138670865
+01:31:02 | INFO: Blender create Mesh node way/138670868
+01:31:02 | INFO: Blender create Mesh node way/138670870
+01:31:02 | INFO: Blender create Mesh node way/138670882
+01:31:02 | INFO: Blender create Mesh node way/138670888
+01:31:02 | INFO: Blender create Mesh node way/138670889
+01:31:02 | INFO: Blender create Mesh node way/138670891
+01:31:02 | INFO: Blender create Mesh node way/138670898
+01:31:02 | INFO: Blender create Mesh node way/142438894
+01:31:02 | INFO: Blender create Mesh node way/142438895
+01:31:02 | INFO: Blender create Mesh node way/155538676
+01:31:02 | INFO: Blender create Mesh node way/155749492
+01:31:02 | INFO: Blender create Mesh node way/155807205
+01:31:02 | INFO: Blender create Mesh node way/155807209
+01:31:02 | INFO: Blender create Mesh node way/155807210
+01:31:02 | INFO: Blender create Mesh node way/155807211
+01:31:02 | INFO: Blender create Mesh node way/155807215
+01:31:02 | INFO: Blender create Mesh node way/155807221
+01:31:02 | INFO: Blender create Mesh node way/355250634
+01:31:02 | INFO: Blender create Mesh node way/521569271
+01:31:02 | INFO: Blender create Mesh node way/548299162
+01:31:02 | INFO: Blender create Mesh node way/551944268
+01:31:02 | INFO: Blender create Mesh node way/749184350
+01:31:02 | INFO: Blender create Mesh node way/844691964
+01:31:02 | INFO: Blender create Mesh node way/858994297
+01:31:02 | INFO: Blender create Mesh node way/904652318
+01:31:02 | INFO: Blender create Mesh node way/1233446447
+01:31:02 | INFO: Blender create Mesh node way/1233446448
+01:31:02 | INFO: Blender create Mesh node 美奈津ビル
+01:31:02 | INFO: Blender create Mesh node メトロビル
+01:31:02 | INFO: Blender create Mesh node way/1333090439
+01:31:02 | INFO: Blender create Mesh node way/1333409426
+01:31:02 | INFO: Blender create Mesh node way/1333409427
+01:31:02 | INFO: Blender create Mesh node しぶにしデッキ
+01:31:02 | INFO: Blender create Mesh node way/1335178869
+01:31:02 | INFO: Blender create Mesh node way/1391515611
+01:31:02 | INFO: Blender create Mesh node way/1419376020
+01:31:02 | INFO: Blender create Mesh node Cube.002
+01:31:02 | INFO: Blender create Mesh node Cube.003
+01:31:02 | INFO: Blender create Mesh node Cube.004
+01:31:02 | INFO: Blender create Mesh node Cube.005
+01:31:02 | INFO: Blender create Mesh node Cube.006
+01:31:02 | INFO: Blender create Mesh node Cube.007
+01:31:02 | INFO: Blender create Mesh node Cube.008
+01:31:02 | INFO: Blender create Mesh node Cube.009
+01:31:02 | INFO: Blender create Mesh node Cube.010
+01:31:02 | INFO: Blender create Mesh node Cube.011
+01:31:02 | INFO: Blender create Mesh node Cube.012
+01:31:02 | INFO: Blender create Mesh node Cube.013
+01:31:02 | INFO: Blender create Mesh node Cube.014
+01:31:02 | INFO: Blender create Mesh node Cube.015
+01:31:02 | INFO: Blender create Mesh node Cube.016
+01:31:02 | INFO: Blender create Mesh node Cube.017
+01:31:02 | INFO: Blender create Mesh node Cube.018
+01:31:02 | INFO: Blender create Mesh node Cube.019
+01:31:02 | INFO: Blender create Mesh node Cube.020
+01:31:02 | INFO: Blender create Mesh node Cube.021
+01:31:02 | INFO: Blender create Mesh node Cube.022
+01:31:02 | INFO: Blender create Mesh node Cube.023
+01:31:02 | INFO: Blender create Mesh node Cube.024
+01:31:02 | INFO: Blender create Mesh node Cube.025
+01:31:02 | INFO: Blender create Mesh node Cube.026
+01:31:02 | INFO: Blender create Mesh node Cube.027
+01:31:02 | INFO: Blender create Mesh node Cube.028
+01:31:02 | INFO: Blender create Mesh node Cube.029
+01:31:02 | INFO: Blender create Mesh node Cube.030
+01:31:02 | INFO: Blender create Mesh node Cube.031
+01:31:02 | INFO: Blender create Mesh node Cube.032
+01:31:02 | INFO: Blender create Mesh node Cube.033
+01:31:02 | INFO: Blender create Mesh node Cube.034
+01:31:02 | INFO: Blender create Mesh node Cube.035
+01:31:02 | INFO: Blender create Mesh node Cube.036
+01:31:02 | INFO: Blender create Mesh node Cube.037
+01:31:02 | INFO: Blender create Mesh node Cube.038
+01:31:02 | INFO: Blender create Mesh node Cube.039
+01:31:02 | INFO: Blender create Mesh node Cube.040
+01:31:02 | INFO: Blender create Mesh node Cube.041
+01:31:02 | INFO: Blender create Mesh node Cube.042
+01:31:02 | INFO: Blender create Mesh node Cube.043
+01:31:02 | INFO: Blender create Mesh node Cube.044
+01:31:02 | INFO: Blender create Mesh node Cube.045
+01:31:02 | INFO: Blender create Mesh node Cube.046
+01:31:02 | INFO: Blender create Mesh node Cube.047
+01:31:02 | INFO: Blender create Mesh node Cube.048
+01:31:02 | INFO: Blender create Mesh node Cube.049
+01:31:02 | INFO: Blender create Mesh node Cube.050
+01:31:02 | INFO: Blender create Mesh node Cube.051
+01:31:02 | INFO: Blender create Mesh node Cube.052
+01:31:02 | INFO: Blender create Mesh node Cube.053
+01:31:02 | INFO: Blender create Mesh node Cube.054
+01:31:02 | INFO: Blender create Mesh node Cube.055
+01:31:02 | INFO: Blender create Mesh node Cube.056
+01:31:02 | INFO: Blender create Mesh node Cube.057
+01:31:02 | INFO: Blender create Mesh node Cube.058
+01:31:02 | INFO: Blender create Mesh node Cube.059
+01:31:02 | INFO: Blender create Mesh node Cube.060
+01:31:02 | INFO: Blender create Mesh node Cube.061
+01:31:02 | INFO: Blender create Mesh node Cube.062
+01:31:02 | INFO: Blender create Mesh node Cube.063
+01:31:02 | INFO: Blender create Mesh node Cube.064
+01:31:02 | INFO: Blender create Mesh node Cube.065
+01:31:02 | INFO: Blender create Mesh node Cube.066
+01:31:02 | INFO: Blender create Mesh node Cube.067
+01:31:02 | INFO: Blender create Mesh node Cube.068
+01:31:02 | INFO: Blender create Mesh node Cube.069
+01:31:02 | INFO: Blender create Mesh node Cube.070
+01:31:02 | INFO: Blender create Mesh node Cube.071
+01:31:02 | INFO: Blender create Mesh node Cube.072
+01:31:02 | INFO: Blender create Mesh node Cube.073
+01:31:02 | INFO: Blender create Mesh node Cube.074
+01:31:02 | INFO: Blender create Mesh node Cube.075
+01:31:02 | INFO: Blender create Mesh node Cube.076
+01:31:02 | INFO: Blender create Mesh node Cube.077
+01:31:02 | INFO: Blender create Mesh node Cube.078
+01:31:02 | INFO: Blender create Mesh node Cube.079
+01:31:02 | INFO: Blender create Mesh node Cube.080
+01:31:02 | INFO: Blender create Mesh node Cube.081
+01:31:02 | INFO: Blender create Mesh node Cube.082
+01:31:02 | INFO: Blender create Mesh node Cube.083
+01:31:02 | INFO: Blender create Mesh node Cube.084
+01:31:02 | INFO: Blender create Mesh node Cube.085
+01:31:02 | INFO: Blender create Mesh node Cube.086
+01:31:02 | INFO: Blender create Mesh node Cube.087
+01:31:02 | INFO: Blender create Mesh node Cube.088
+01:31:02 | INFO: Blender create Mesh node Cube.089
+01:31:02 | INFO: Blender create Mesh node Cube.090
+01:31:02 | INFO: Blender create Mesh node Cube.091
+01:31:02 | INFO: Blender create Mesh node Cube.092
+01:31:02 | INFO: Blender create Mesh node Cube.093
+01:31:02 | INFO: Blender create Mesh node Cube.094
+01:31:02 | INFO: Blender create Mesh node Cube.095
+01:31:02 | INFO: Blender create Mesh node Cube.096
+01:31:02 | INFO: Blender create Mesh node Cube.097
+01:31:02 | INFO: Blender create Mesh node Cube.098
+01:31:02 | INFO: Blender create Mesh node Cube.099
+01:31:02 | INFO: Blender create Mesh node Cube.100
+01:31:02 | INFO: Blender create Mesh node Cube.101
+01:31:02 | INFO: Blender create Mesh node Cube.102
+01:31:02 | INFO: Blender create Mesh node Cube.103
+01:31:02 | INFO: Blender create Mesh node Cube.104
+01:31:02 | INFO: Blender create Mesh node Cube.105
+01:31:02 | INFO: Blender create Mesh node Cube.106
+01:31:02 | INFO: Blender create Mesh node Cube.107
+01:31:02 | INFO: Blender create Mesh node Cube.108
+01:31:02 | INFO: Blender create Mesh node Cube.109
+01:31:02 | INFO: Blender create Mesh node Cube.110
+01:31:02 | INFO: Blender create Mesh node Cube.111
+01:31:02 | INFO: Blender create Mesh node Cube.112
+01:31:02 | INFO: Blender create Mesh node Cube.113
+01:31:02 | INFO: Blender create Mesh node Cube.114
+01:31:02 | INFO: Blender create Mesh node Cube.115
+01:31:02 | INFO: Blender create Mesh node Cube.116
+01:31:02 | INFO: Blender create Mesh node Cube.117
+01:31:02 | INFO: Blender create Mesh node Cube.118
+01:31:03 | INFO: Blender create Mesh node Cube.119
+01:31:03 | INFO: Blender create Mesh node Cube.120
+01:31:03 | INFO: Blender create Mesh node Cube.121
+01:31:03 | INFO: Blender create Mesh node Cube.122
+01:31:03 | INFO: Blender create Mesh node Cube.123
+01:31:03 | INFO: Blender create Mesh node Cube.124
+01:31:03 | INFO: Blender create Mesh node Cube.125
+01:31:03 | INFO: Blender create Mesh node Cube.126
+01:31:03 | INFO: Blender create Mesh node Cube.127
+01:31:03 | INFO: Blender create Mesh node Cube.128
+01:31:03 | INFO: Blender create Mesh node Cube.129
+01:31:03 | INFO: Blender create Mesh node Cube.130
+01:31:03 | INFO: Blender create Mesh node Cube.131
+01:31:03 | INFO: Blender create Mesh node Cube.132
+01:31:03 | INFO: Blender create Mesh node Cube.133
+01:31:03 | INFO: Blender create Mesh node Cube.134
+01:31:03 | INFO: Blender create Mesh node Cube.135
+01:31:03 | INFO: Blender create Mesh node Cube.136
+01:31:03 | INFO: Blender create Mesh node Cube.137
+01:31:03 | INFO: Blender create Mesh node Cube.138
+01:31:03 | INFO: Blender create Mesh node Cube.139
+01:31:03 | INFO: Blender create Mesh node Cube.140
+01:31:03 | INFO: Blender create Mesh node Cube.141
+01:31:03 | INFO: Blender create Mesh node Cube.142
+01:31:03 | INFO: Blender create Mesh node Cube.143
+01:31:03 | INFO: Blender create Mesh node Cube.144
+01:31:03 | INFO: Blender create Mesh node Cube.145
+01:31:03 | INFO: Blender create Mesh node Cube.146
+01:31:03 | INFO: Blender create Mesh node Cube.147
+01:31:03 | INFO: Blender create Mesh node Cube.148
+01:31:03 | INFO: Blender create Mesh node Cube.149
+01:31:03 | INFO: Blender create Mesh node Cube.150
+01:31:03 | INFO: Blender create Mesh node Cube.151
+01:31:03 | INFO: Blender create Mesh node Cube.152
+01:31:03 | INFO: Blender create Mesh node Cube.153
+01:31:03 | INFO: Blender create Mesh node Cube.154
+01:31:03 | INFO: Blender create Mesh node Cube.155
+01:31:03 | INFO: Blender create Mesh node Cube.156
+01:31:03 | INFO: Blender create Mesh node Cube.157
+01:31:03 | INFO: Blender create Mesh node Cube.158
+01:31:03 | INFO: Blender create Mesh node Cube.159
+01:31:03 | INFO: Blender create Mesh node Cube.160
+01:31:03 | INFO: Blender create Mesh node Cube.161
+01:31:03 | INFO: Blender create Mesh node Cube.162
+01:31:03 | INFO: Blender create Mesh node Cube.163
+01:31:03 | INFO: Blender create Mesh node Cube.164
+01:31:03 | INFO: Blender create Mesh node Cube.165
+01:31:03 | INFO: Blender create Mesh node Cube.166
+01:31:03 | INFO: Blender create Mesh node Cube.167
+01:31:03 | INFO: Blender create Mesh node Cube.168
+01:31:03 | INFO: Blender create Mesh node Cube.169
+01:31:03 | INFO: Blender create Mesh node Cube.170
+01:31:03 | INFO: Blender create Mesh node Cube.171
+01:31:03 | INFO: Blender create Mesh node Cube.172
+01:31:03 | INFO: Blender create Mesh node Cube.173
+01:31:03 | INFO: Blender create Mesh node Cube.174
+01:31:03 | INFO: Blender create Mesh node Cube.175
+01:31:03 | INFO: Blender create Mesh node Cube.176
+01:31:03 | INFO: Blender create Mesh node Cube.177
+01:31:03 | INFO: Blender create Mesh node Cube.178
+01:31:03 | INFO: Blender create Mesh node Cube.179
+01:31:03 | INFO: Blender create Mesh node Cube.180
+01:31:03 | INFO: Blender create Mesh node Cube.181
+01:31:03 | INFO: Blender create Mesh node Cube.182
+01:31:03 | INFO: Blender create Mesh node Cube.183
+01:31:03 | INFO: Blender create Mesh node Cube.184
+01:31:03 | INFO: Blender create Mesh node Cube.185
+01:31:03 | INFO: Blender create Mesh node Cube.186
+01:31:03 | INFO: Blender create Mesh node Cube.187
+01:31:03 | INFO: Blender create Mesh node Cube.188
+01:31:03 | INFO: Blender create Mesh node Cube.189
+01:31:03 | INFO: Blender create Mesh node Cube.190
+01:31:03 | INFO: Blender create Mesh node Cube.191
+01:31:03 | INFO: Blender create Mesh node Cube.192
+01:31:03 | INFO: Blender create Mesh node Cube.193
+01:31:03 | INFO: Blender create Mesh node Cube.194
+01:31:03 | INFO: Blender create Mesh node Cube.195
+01:31:03 | INFO: Blender create Mesh node Cube.196
+01:31:03 | INFO: Blender create Mesh node Cube.197
+01:31:03 | INFO: Blender create Mesh node Cube.198
+01:31:03 | INFO: Blender create Mesh node Cube.199
+01:31:03 | INFO: Blender create Mesh node Cube.200
+01:31:03 | INFO: Blender create Mesh node Cube.201
+01:31:03 | INFO: Blender create Mesh node Cube.202
+01:31:03 | INFO: Blender create Mesh node Cube.203
+01:31:03 | INFO: Blender create Mesh node Cube.204
+01:31:03 | INFO: Blender create Mesh node Cube.205
+01:31:03 | INFO: Blender create Mesh node Cube.206
+01:31:03 | INFO: Blender create Mesh node Cube.207
+01:31:03 | INFO: Blender create Mesh node Cube.208
+01:31:03 | INFO: Blender create Mesh node Cube.209
+01:31:03 | INFO: Blender create Mesh node Cube.210
+01:31:03 | INFO: Blender create Mesh node Cube.211
+01:31:03 | INFO: Blender create Mesh node Cube.212
+01:31:03 | INFO: Blender create Mesh node Cube.213
+01:31:03 | INFO: Blender create Mesh node Cube.214
+01:31:03 | INFO: Blender create Mesh node Cube.215
+01:31:03 | INFO: Blender create Mesh node Cube.216
+01:31:03 | INFO: Blender create Mesh node Cube.217
+01:31:03 | INFO: Blender create Mesh node Cube.218
+01:31:03 | INFO: Blender create Mesh node Cube.219
+01:31:03 | INFO: Blender create Mesh node Cube.220
+01:31:03 | INFO: Blender create Mesh node Cube.221
+01:31:03 | INFO: Blender create Mesh node Cube.222
+01:31:03 | INFO: Blender create Mesh node Cube.223
+01:31:03 | INFO: Blender create Mesh node Cube.224
+01:31:03 | INFO: Blender create Mesh node Cube.225
+01:31:03 | INFO: Blender create Mesh node Cube.226
+01:31:03 | INFO: Blender create Mesh node Cube.227
+01:31:03 | INFO: Blender create Mesh node Cube.228
+01:31:03 | INFO: Blender create Mesh node Cube.229
+01:31:03 | INFO: Blender create Mesh node Cube.230
+01:31:03 | INFO: Blender create Mesh node Cube.231
+01:31:03 | INFO: Blender create Mesh node Cube.232
+01:31:03 | INFO: Blender create Mesh node Cube.233
+01:31:03 | INFO: Blender create Mesh node Cube.234
+01:31:03 | INFO: Blender create Mesh node Cube.235
+01:31:03 | INFO: Blender create Mesh node Cube.236
+01:31:03 | INFO: Blender create Mesh node Cube.237
+01:31:03 | INFO: Blender create Mesh node Cube.238
+01:31:03 | INFO: Blender create Mesh node Cube.239
+01:31:03 | INFO: Blender create Mesh node Cube.240
+01:31:03 | INFO: Blender create Mesh node Cube.241
+01:31:03 | INFO: Blender create Mesh node Cube.242
+01:31:03 | INFO: Blender create Mesh node Cube.243
+01:31:03 | INFO: Blender create Mesh node Cube.244
+01:31:03 | INFO: Blender create Mesh node Cube.245
+01:31:03 | INFO: Blender create Mesh node Cube.246
+01:31:03 | INFO: Blender create Mesh node Cube.247
+01:31:03 | INFO: Blender create Mesh node Cube.248
+01:31:03 | INFO: Blender create Mesh node Cube.249
+01:31:03 | INFO: Blender create Mesh node Cube.250
+01:31:03 | INFO: Blender create Mesh node Cube.251
+01:31:03 | INFO: Blender create Mesh node Cube.252
+01:31:03 | INFO: Blender create Mesh node Cube.253
+01:31:03 | INFO: Blender create Mesh node Cube.254
+01:31:03 | INFO: Blender create Mesh node Cube.255
+01:31:03 | INFO: Blender create Mesh node Cube.256
+01:31:03 | INFO: Blender create Mesh node Cube.257
+01:31:03 | INFO: Blender create Mesh node Cube.258
+01:31:03 | INFO: Blender create Mesh node Cube.259
+01:31:03 | INFO: Blender create Mesh node Cube.260
+01:31:03 | INFO: Blender create Mesh node Cube.261
+01:31:03 | INFO: Blender create Mesh node Cube.262
+01:31:03 | INFO: Blender create Mesh node Cube.263
+01:31:03 | INFO: Blender create Mesh node Cube.264
+01:31:03 | INFO: Blender create Mesh node Cube.265
+01:31:03 | INFO: Blender create Mesh node Cube.266
+01:31:03 | INFO: Blender create Mesh node Cube.267
+01:31:03 | INFO: Blender create Mesh node Cube.268
+01:31:03 | INFO: Blender create Mesh node Cube.269
+01:31:03 | INFO: Blender create Mesh node Cube.270
+01:31:03 | INFO: Blender create Mesh node Cube.271
+01:31:03 | INFO: Blender create Mesh node Cube.272
+01:31:03 | INFO: Blender create Mesh node Cube.273
+01:31:03 | INFO: Blender create Mesh node Cube.274
+01:31:03 | INFO: Blender create Mesh node Cube.275
+01:31:03 | INFO: Blender create Mesh node Cube.276
+01:31:03 | INFO: Blender create Mesh node Cube.277
+01:31:03 | INFO: Blender create Mesh node Cube.278
+01:31:03 | INFO: Blender create Mesh node Cube.279
+01:31:03 | INFO: Blender create Mesh node Cube.280
+01:31:03 | INFO: Blender create Mesh node Cube.281
+01:31:03 | INFO: Blender create Mesh node Cube.282
+01:31:03 | INFO: Blender create Mesh node Cube.283
+01:31:03 | INFO: Blender create Mesh node Cube.284
+01:31:03 | INFO: Blender create Mesh node Cube.285
+01:31:03 | INFO: Blender create Mesh node Cube.286
+01:31:03 | INFO: Blender create Mesh node Cube.287
+01:31:03 | INFO: Blender create Mesh node Cube.288
+01:31:03 | INFO: Blender create Mesh node Cube.289
+01:31:03 | INFO: Blender create Mesh node Cube.290
+01:31:03 | INFO: Blender create Mesh node Cube.291
+01:31:03 | INFO: Blender create Mesh node Cube.292
+01:31:03 | INFO: Blender create Mesh node Cube.293
+01:31:03 | INFO: Blender create Mesh node Cube.294
+01:31:03 | INFO: Blender create Mesh node Cube.295
+01:31:03 | INFO: Blender create Mesh node Cube.296
+01:31:03 | INFO: Blender create Mesh node Cube.297
+01:31:03 | INFO: Blender create Mesh node Cube.298
+01:31:03 | INFO: Blender create Mesh node Cube.299
+01:31:03 | INFO: Blender create Mesh node Cube.300
+01:31:03 | INFO: Blender create Mesh node Cube.301
+01:31:03 | INFO: Blender create Mesh node Cube.302
+01:31:03 | INFO: Blender create Mesh node Cube.303
+01:31:03 | INFO: Blender create Mesh node Cube.304
+01:31:03 | INFO: Blender create Mesh node Cube.305
+01:31:03 | INFO: Blender create Mesh node Cube.306
+01:31:03 | INFO: Blender create Mesh node Cube.307
+01:31:03 | INFO: Blender create Mesh node Cube.308
+01:31:03 | INFO: Blender create Mesh node Cube.309
+01:31:03 | INFO: Blender create Mesh node Cube.310
+01:31:03 | INFO: Blender create Mesh node Cube.311
+01:31:03 | INFO: Blender create Mesh node Cube.312
+01:31:03 | INFO: Blender create Mesh node Cube.313
+01:31:03 | INFO: Blender create Mesh node Cube.314
+01:31:03 | INFO: Blender create Mesh node Cube.315
+01:31:03 | INFO: Blender create Mesh node Cube.316
+01:31:03 | INFO: Blender create Mesh node Cube.317
+01:31:03 | INFO: Blender create Mesh node Cube.318
+01:31:03 | INFO: Blender create Mesh node Cube.319
+01:31:03 | INFO: Blender create Mesh node Cube.320
+01:31:03 | INFO: Blender create Mesh node Cube.321
+01:31:03 | INFO: Blender create Mesh node Cube.322
+01:31:03 | INFO: Blender create Mesh node Cube.323
+01:31:03 | INFO: Blender create Mesh node Cube.324
+01:31:03 | INFO: Blender create Mesh node Cube.325
+01:31:03 | INFO: Blender create Mesh node Cube.326
+01:31:03 | INFO: Blender create Mesh node Cube.327
+01:31:03 | INFO: Blender create Mesh node Cube.328
+01:31:03 | INFO: Blender create Mesh node Cube.329
+01:31:03 | INFO: Blender create Mesh node Cube.330
+01:31:03 | INFO: Blender create Mesh node Cube.331
+01:31:03 | INFO: Blender create Mesh node Cube.332
+01:31:03 | INFO: Blender create Mesh node Cube.333
+01:31:03 | INFO: Blender create Mesh node Cube.334
+01:31:03 | INFO: Blender create Mesh node Cube.335
+01:31:03 | INFO: Blender create Mesh node Cube.336
+01:31:03 | INFO: Blender create Mesh node Cube.337
+01:31:03 | INFO: Blender create Mesh node Cube.338
+01:31:03 | INFO: Blender create Mesh node Cube.339
+01:31:03 | INFO: Blender create Mesh node Cube.340
+01:31:03 | INFO: Blender create Mesh node Cube.341
+01:31:03 | INFO: Blender create Mesh node Cube.342
+01:31:03 | INFO: Blender create Mesh node Cube.343
+01:31:03 | INFO: Blender create Mesh node Cube.344
+01:31:03 | INFO: Blender create Mesh node Cube.345
+01:31:03 | INFO: Blender create Mesh node Cube.346
+01:31:03 | INFO: Blender create Mesh node Cube.347
+01:31:03 | INFO: Blender create Mesh node Cube.348
+01:31:03 | INFO: Blender create Mesh node Cube.349
+01:31:03 | INFO: Blender create Mesh node Cube.350
+01:31:03 | INFO: Blender create Mesh node Cube.351
+01:31:03 | INFO: Blender create Mesh node Cube.352
+01:31:03 | INFO: Blender create Mesh node Cube.353
+01:31:03 | INFO: Blender create Mesh node Cube.354
+01:31:03 | INFO: Blender create Mesh node Cube.355
+01:31:03 | INFO: Blender create Mesh node Cube.356
+01:31:03 | INFO: Blender create Mesh node Cube.357
+01:31:03 | INFO: Blender create Mesh node Cube.358
+01:31:03 | INFO: Blender create Mesh node Cube.359
+01:31:03 | INFO: Blender create Mesh node Cube.360
+01:31:03 | INFO: Blender create Mesh node Cube.361
+01:31:03 | INFO: Blender create Mesh node Cube.362
+01:31:03 | INFO: Blender create Mesh node Cube.363
+01:31:03 | INFO: Blender create Mesh node Cube.364
+01:31:03 | INFO: Blender create Mesh node Cube.365
+01:31:03 | INFO: Blender create Mesh node Cube.366
+01:31:03 | INFO: Blender create Mesh node Cube.367
+01:31:03 | INFO: Blender create Mesh node Cube.368
+01:31:03 | INFO: Blender create Mesh node Cube.369
+01:31:03 | INFO: Blender create Mesh node Cube.370
+01:31:03 | INFO: Blender create Mesh node Cube.371
+01:31:03 | INFO: Blender create Mesh node Cube.372
+01:31:03 | INFO: Blender create Mesh node Cube.373
+01:31:03 | INFO: Blender create Mesh node Cube.374
+01:31:03 | INFO: Blender create Mesh node Cube.375
+01:31:03 | INFO: Blender create Mesh node Cube.376
+01:31:03 | INFO: Blender create Mesh node Cube.377
+01:31:03 | INFO: Blender create Mesh node Cube.378
+01:31:03 | INFO: Blender create Mesh node Cube.379
+01:31:03 | INFO: Blender create Mesh node Cube.380
+01:31:03 | INFO: Blender create Mesh node Cube.381
+01:31:03 | INFO: Blender create Mesh node Cube.382
+01:31:03 | INFO: Blender create Mesh node Cube.383
+01:31:03 | INFO: Blender create Mesh node Cube.384
+01:31:03 | INFO: Blender create Mesh node Cube.385
+01:31:03 | INFO: Blender create Mesh node Cube.386
+01:31:03 | INFO: Blender create Mesh node Cube.387
+01:31:03 | INFO: Blender create Mesh node Cube.388
+01:31:03 | INFO: Blender create Mesh node Cube.389
+01:31:03 | INFO: Blender create Mesh node Cube.390
+01:31:03 | INFO: Blender create Mesh node Cube.391
+01:31:03 | INFO: Blender create Mesh node Cube.392
+01:31:03 | INFO: Blender create Mesh node Cube.393
+01:31:03 | INFO: Blender create Mesh node Cube.394
+01:31:03 | INFO: Blender create Mesh node Cube.395
+01:31:03 | INFO: Blender create Mesh node Cube.396
+01:31:03 | INFO: Blender create Mesh node Cube.397
+01:31:03 | INFO: Blender create Mesh node Cube.398
+01:31:03 | INFO: Blender create Mesh node Cube.399
+01:31:03 | INFO: Blender create Mesh node Cube.400
+01:31:03 | INFO: Blender create Mesh node Cube.401
+01:31:03 | INFO: Blender create Mesh node Cube.402
+01:31:03 | INFO: Blender create Mesh node Cube.403
+01:31:03 | INFO: Blender create Mesh node Cube.404
+01:31:03 | INFO: Blender create Mesh node Cube.405
+01:31:03 | INFO: Blender create Mesh node Cube.406
+01:31:03 | INFO: Blender create Mesh node Cube.407
+01:31:03 | INFO: Blender create Mesh node Cube.408
+01:31:03 | INFO: Blender create Mesh node Cube.409
+01:31:03 | INFO: Blender create Mesh node Cube.410
+01:31:03 | INFO: Blender create Mesh node Cube.411
+01:31:03 | INFO: Blender create Mesh node Cube.412
+01:31:03 | INFO: Blender create Mesh node Cube.413
+01:31:03 | INFO: Blender create Mesh node Cube.414
+01:31:03 | INFO: Blender create Mesh node Cube.415
+01:31:03 | INFO: Blender create Mesh node Cube.416
+01:31:03 | INFO: Blender create Mesh node Cube.417
+01:31:03 | INFO: Blender create Mesh node Cube.418
+01:31:03 | INFO: Blender create Mesh node Cube.419
+01:31:03 | INFO: Blender create Mesh node Cube.420
+01:31:03 | INFO: Blender create Mesh node Cube.421
+01:31:03 | INFO: Blender create Mesh node Cube.422
+01:31:03 | INFO: Blender create Mesh node Cube.423
+01:31:03 | INFO: Blender create Mesh node Cube.424
+01:31:03 | INFO: Blender create Mesh node Cube.425
+01:31:03 | INFO: Blender create Mesh node Cube.426
+01:31:03 | INFO: Blender create Mesh node Cube.427
 01:31:03 | INFO: Blender create Mesh node Cube.428
 01:31:03 | INFO: Blender create Mesh node Cube.429
 01:31:03 | INFO: Blender create Mesh node Cube.430

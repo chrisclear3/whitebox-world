@@ -1,0 +1,180 @@
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+01:29:42 | INFO: Starting glTF 2.0 export
+01:29:42 | INFO: Extracting primitive: Cube.354
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.363
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.364
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.365
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.366
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.367
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.368
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.369
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.370
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.371
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.372
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Block_Building.006
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Block_Building.007
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.115
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.176
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.116
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.177
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.178
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.179
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.180
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.181
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.182
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.183
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.184
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.185
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.186
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.187
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.188
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.189
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.190
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.191
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.192
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.193
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.194
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.355
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.356
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.357
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.358
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.359
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.360
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.361
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.362
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.375
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.377
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Icosphere.195
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.374
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.376
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.373
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.378
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.379
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.380
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cube.381
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.117
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.118
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.119
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Extracting primitive: Cylinder.120
+01:29:42 | INFO: Primitives created: 1
+01:29:42 | INFO: Finished glTF 2.0 export in 0.4750945568084717 s
+
+Info: Saved "test.blend"
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/agent/.config/blender').
+01:29:43 | INFO: Data are loaded, start creating Blender stuff
+01:29:43 | INFO: Blender create Mesh node Cube.354
+01:29:43 | INFO: Blender create Mesh node Cube.363
+01:29:43 | INFO: Blender create Mesh node Cube.364
+01:29:43 | INFO: Blender create Mesh node Cube.365
+01:29:43 | INFO: Blender create Mesh node Cube.366
+01:29:43 | INFO: Blender create Mesh node Cube.367
+01:29:43 | INFO: Blender create Mesh node Cube.368
+01:29:43 | INFO: Blender create Mesh node Cube.369
+01:29:43 | INFO: Blender create Mesh node Cube.370
+01:29:43 | INFO: Blender create Mesh node Cube.371
+01:29:43 | INFO: Blender create Mesh node Cube.372
+01:29:43 | INFO: Blender create Mesh node Block_Building.006
+01:29:43 | INFO: Blender create Mesh node Block_Building.007
+01:29:43 | INFO: Blender create Mesh node Cylinder.115
+01:29:43 | INFO: Blender create Mesh node Icosphere.176
+01:29:43 | INFO: Blender create Mesh node Cylinder.116
+01:29:43 | INFO: Blender create Mesh node Icosphere.177
+01:29:43 | INFO: Blender create Mesh node Icosphere.178
+01:29:43 | INFO: Blender create Mesh node Icosphere.179
+01:29:43 | INFO: Blender create Mesh node Icosphere.180
+01:29:43 | INFO: Blender create Mesh node Icosphere.181
+01:29:43 | INFO: Blender create Mesh node Icosphere.182
+01:29:43 | INFO: Blender create Mesh node Icosphere.183
+01:29:43 | INFO: Blender create Mesh node Icosphere.184
+01:29:43 | INFO: Blender create Mesh node Icosphere.185
+01:29:43 | INFO: Blender create Mesh node Icosphere.186
+01:29:43 | INFO: Blender create Mesh node Icosphere.187
+01:29:43 | INFO: Blender create Mesh node Icosphere.188
+01:29:43 | INFO: Blender create Mesh node Icosphere.189
+01:29:43 | INFO: Blender create Mesh node Icosphere.190
+01:29:43 | INFO: Blender create Mesh node Icosphere.191
+01:29:43 | INFO: Blender create Mesh node Icosphere.192
+01:29:43 | INFO: Blender create Mesh node Icosphere.193
+01:29:43 | INFO: Blender create Mesh node Icosphere.194
+01:29:43 | INFO: Blender create Mesh node Cube.355
+01:29:43 | INFO: Blender create Mesh node Cube.356
+01:29:43 | INFO: Blender create Mesh node Cube.357
+01:29:43 | INFO: Blender create Mesh node Cube.358
+01:29:43 | INFO: Blender create Mesh node Cube.359
+01:29:43 | INFO: Blender create Mesh node Cube.360
+01:29:43 | INFO: Blender create Mesh node Cube.361
+01:29:43 | INFO: Blender create Mesh node Cube.362
+01:29:43 | INFO: Blender create Mesh node Cube.375
+01:29:43 | INFO: Blender create Mesh node Cube.377
+01:29:43 | INFO: Blender create Mesh node Icosphere.195
+01:29:43 | INFO: Blender create Mesh node Cube.374
+01:29:43 | INFO: Blender create Mesh node Cube.376
+01:29:43 | INFO: Blender create Mesh node Cube.373
+01:29:43 | INFO: Blender create Mesh node Cube.378
+01:29:43 | INFO: Blender create Mesh node Cube.379
+01:29:43 | INFO: Blender create Mesh node Cube.380
+01:29:43 | INFO: Blender create Mesh node Cube.381
+01:29:43 | INFO: Blender create Mesh node Cylinder.117
+01:29:43 | INFO: Blender create Mesh node Cylinder.118
+01:29:43 | INFO: Blender create Mesh node Cylinder.119
+01:29:43 | INFO: Blender create Mesh node Cylinder.120
+01:29:43 | INFO: glTF import finished in 0.12s
+WHITEBOX_INTEGRATION_OK: all biomes, independent motion, camera invariance, live speed after bake, path edits, 4 weather states, addon registration, GLB reimport, poses
+Blender 4.3.2
+
+Blender quit
