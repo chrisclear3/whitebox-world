@@ -92,6 +92,7 @@ def sync_panel(scene):
         scene.ww_weather=scene.get('ww_active_weather','clear')
         scene.ww_seed=int(config.get('seed',42));scene.ww_size=float(config.get('size',160))
         scene.ww_elevation=float(scene.get('ww_sun_elevation',35));scene.ww_azimuth=float(scene.get('ww_sun_azimuth',135))
+        if hasattr(scene,'ww_facade_style'):scene.ww_facade_style=config.get('facade_style','AUTO')
         scene.ww_map_file=config.get('map_file','');scene.ww_coordinates=config.get('coordinate_system','auto')
 
 

@@ -34,6 +34,12 @@ def validate_config(config):
         raise ValueError('Unknown export detail mode')
     if not 1 <= float(config.get('lod_distance',85)) <= 10000:
         raise ValueError('lod_distance must be 1–10000 meters')
+    from .facade_styles import STYLES
+    if config.get('facade_style','AUTO') not in {'AUTO',*STYLES}:
+        raise ValueError('Unknown facade style')
+    overrides=config.get('facade_style_overrides',{})
+    if not isinstance(overrides,dict) or any(v not in {'AUTO',*STYLES} for v in overrides.values()):
+        raise ValueError('facade_style_overrides must map building IDs or names to known styles')
     for actor in config.get('actors',[]):
         if actor.get('kind','person') not in ('person','vehicle'):
             raise ValueError('Actor kind must be person or vehicle')

@@ -1,4 +1,4 @@
-bl_info={'name':'Whitebox World','author':'Whitebox World contributors','version':(0,3,0),'blender':(4,2,0),'location':'View3D > Sidebar > Whitebox','description':'Editable city and nature blockouts with independent actor motion','category':'3D View'}
+bl_info={'name':'Whitebox World','author':'Whitebox World contributors','version':(0,4,0),'blender':(4,2,0),'location':'View3D > Sidebar > Whitebox','description':'Editable city and nature blockouts with independent actor motion','category':'3D View'}
 import json, os
 try:
     import bpy
@@ -31,6 +31,9 @@ if bpy is not None:
             config={'biome':s.ww_biome,'seed':s.ww_seed,'size':s.ww_size,'weather':s.ww_weather,'sun_elevation':s.ww_elevation,'sun_azimuth':s.ww_azimuth}
             for key in ('facades','trees','road_markings','utility_poles','traffic_lights'):config['show_'+key]=bool(s.get('ww_show_'+key,True))
             for key,default in [('lod_mode','AUTO'),('lod_distance',85),('export_detail','CURRENT')]:config[key]=s.get('ww_'+key,default)
+            config['facade_style']=s.ww_facade_style
+            previous=json.loads(s.get('ww_config','{}'))
+            if 'facade_style_overrides' in previous:config['facade_style_overrides']=previous['facade_style_overrides']
             if s.ww_map_file:config.update(map_file=bpy.path.abspath(s.ww_map_file),coordinate_system=s.ww_coordinates)
             try:build(config)
             except Exception as e:self.report({'ERROR'},str(e));return {'CANCELLED'}
@@ -68,6 +71,7 @@ if bpy is not None:
             l=self.layout;s=context.scene
             l.label(text='1 · Generate editable environment')
             for prop in ('ww_biome','ww_seed','ww_size','ww_map_file','ww_coordinates'):l.prop(s,prop)
+            l.prop(s,'ww_facade_style',text='Facade family')
             l.operator('whitebox.generate');l.label(text='Only replaces WW_ collections',icon='INFO')
             if s.get('ww_config'):
                 l.separator();l.label(text='Editable scene layers')
@@ -110,6 +114,8 @@ if bpy is not None:
         modes=['AUTO','ALL','COARSE','FROZEN']; exports=['CURRENT','ALL','COARSE']
         def set_mode(s,v):
             s['ww_lod_mode']=modes[v];update_details(s)
+        from .facade_styles import STYLES
+        S.ww_facade_style=EnumProperty(name='Facade family',items=[('AUTO','Auto from map / size','Deterministic architectural prior')]+[(k,k.replace('_',' ').title(),'Use this family for newly generated buildings') for k in STYLES],default='AUTO')
         S.ww_detail_mode_ui=EnumProperty(name='Detail mode',items=[('AUTO','Camera distance','Active camera distance from building bounds'),('ALL','All detail','Keep all modeled detail visible'),('COARSE','Coarse only','Hide optional detail meshes'),('FROZEN','Frozen selection','Preserve current detail visibility')],get=lambda s:modes.index(s.get('ww_lod_mode','AUTO')),set=set_mode)
         S.ww_export_detail_ui=EnumProperty(name='Export detail',items=[('CURRENT','Freeze current','Snapshot current camera detail for entire GLB'),('ALL','All detail','Export all enabled detail layers'),('COARSE','Coarse only','Export simplified geometry')],get=lambda s:exports.index(s.get('ww_export_detail','CURRENT')),set=lambda s,v:s.__setitem__('ww_export_detail',exports[v]))
         S.ww_biome=EnumProperty(name='Biome',items=[(x,x.title(),'') for x in ('city','beach','forest','grassland','mixed')],default='mixed')
@@ -126,7 +132,7 @@ if bpy is not None:
 
     def unregister():
         for cls in reversed(CLASSES):bpy.utils.unregister_class(cls)
-        for p in ('ww_biome','ww_weather','ww_seed','ww_size','ww_elevation','ww_azimuth','ww_map_file','ww_coordinates','ww_detail_mode_ui','ww_export_detail_ui'):delattr(bpy.types.Scene,p)
+        for p in ('ww_biome','ww_weather','ww_seed','ww_size','ww_elevation','ww_azimuth','ww_map_file','ww_coordinates','ww_facade_style','ww_detail_mode_ui','ww_export_detail_ui'):delattr(bpy.types.Scene,p)
         for key in ('facades','trees','road_markings','utility_poles','traffic_lights'):delattr(bpy.types.Scene,'ww_show_'+key+'_ui')
         delattr(bpy.types.Scene,'ww_lod_distance_ui')
         from .detail_runtime import uninstall

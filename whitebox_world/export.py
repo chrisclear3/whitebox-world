@@ -2,39 +2,69 @@ import bpy,json,os
 from .runtime import bake,update_actors
 
 def export_glb(filepath,scene):
-    """Export one fixed LOD snapshot, honoring feature and artist visibility.
+    """Export exactly one fixed LOD shell, preserving editable scene state.
 
     glTF has no portable Blender collection/camera-distance visibility driver.
     CURRENT snapshots at the export frame before animation baking changes time.
+    Artist object hide flags are never modified, including viewport-only flags.
     """
-    from .detail_runtime import update_details, object_render_visible
-    old_mode=scene.get('ww_lod_mode','AUTO')
-    old_frame=scene.frame_current
-    old_selection=list(bpy.context.selected_objects)
-    old_active=bpy.context.view_layer.objects.active
+    from .detail_runtime import (update_details, object_render_visible,
+                                 scene_collections, suspend_updates)
+    view_layer = bpy.context.view_layer
+    old_mode = scene.get('ww_lod_mode','AUTO')
+    old_frame = scene.frame_current
+    old_subframe = scene.frame_subframe
+    old_selection = [obj for obj in view_layer.objects if obj.select_get()]
+    old_active = view_layer.objects.active
     update_details(scene)
-    lods=[(c,c.hide_viewport,c.hide_render) for c in bpy.data.collections if c.get('ww_lod')]
-    choice=scene.get('ww_export_detail','CURRENT')
+    collections = [(col, col.hide_viewport, col.hide_render)
+                   for col in scene_collections(scene)]
+
+    def layer_collections(layer):
+        yield layer
+        for child in layer.children:
+            yield from layer_collections(child)
+    layers = [(layer, layer.hide_viewport)
+              for layer in layer_collections(view_layer.layer_collection)]
+    choice = scene.get('ww_export_detail','CURRENT')
     try:
         if choice in ('ALL','COARSE'):
-            scene['ww_lod_mode']=choice;update_details(scene)
-        scene['ww_lod_mode']='FROZEN'
-        bake(scene)
-        bpy.ops.object.select_all(action='DESELECT')
-        # Temporarily unhide LOD collections in the viewport for selection only.
-        # Render visibility remains the export authority.
-        for c,_,_ in lods:c.hide_viewport=False
-        for o in scene.objects:
-            if any(c.name.startswith('WW_') for c in o.users_collection) and object_render_visible(o,scene) and o.name!='WW_Fog':o.select_set(True)
-        bpy.ops.export_scene.gltf(filepath=os.path.abspath(filepath),export_format='GLB',use_selection=True,export_extras=True,export_animations=True,export_animation_mode='ACTIVE_ACTIONS',export_frame_range=True,export_force_sampling=True)
+            scene['ww_lod_mode'] = choice
+            update_details(scene)
+        scene['ww_lod_mode'] = 'FROZEN'
+        with suspend_updates():
+            bake(scene)
+            # Resolve render visibility before unlocking viewport collections.
+            # This includes paired coarse shells and ancestor feature switches.
+            selected = [obj for obj in scene.objects
+                        if any(col.name.startswith('WW_') for col in obj.users_collection)
+                        and object_render_visible(obj,scene) and obj.name != 'WW_Fog']
+            # A render-visible coarse shell can be in a viewport-hidden group.
+            # Unhide collections, never object hide_* flags, for selection only.
+            # Explicit view-layer exclusions remain respected by membership.
+            for col, _, _ in collections: col.hide_viewport = False
+            for layer, _ in layers: layer.hide_viewport = False
+            view_layer.update()
+            for obj in view_layer.objects: obj.select_set(False)
+            for obj in selected:
+                if obj.name in view_layer.objects: obj.select_set(True)
+            result = bpy.ops.export_scene.gltf(filepath=os.path.abspath(filepath),export_format='GLB',use_selection=True,export_extras=True,export_animations=True,export_animation_mode='ACTIVE_ACTIONS',export_frame_range=True,export_force_sampling=True)
+            if result != {'FINISHED'}:
+                raise RuntimeError('glTF export did not finish: ' + str(result))
     finally:
-        scene.frame_set(old_frame)
-        for c,viewport,render in lods:c.hide_viewport=viewport;c.hide_render=render
-        scene['ww_lod_mode']=old_mode
-        bpy.ops.object.select_all(action='DESELECT')
-        for o in old_selection:
-            if o.name in scene.objects:o.select_set(True)
-        bpy.context.view_layer.objects.active=old_active
+        with suspend_updates():
+            # Restore selection while collections are still accessible, then
+            # restore the saved frozen pair state before allowing handlers again.
+            for obj in view_layer.objects: obj.select_set(False)
+            for obj in old_selection:
+                if obj.name in view_layer.objects: obj.select_set(True)
+            view_layer.objects.active = old_active
+            scene.frame_set(old_frame, subframe=old_subframe)
+            scene['ww_lod_mode'] = old_mode
+            for col, viewport, render in collections:
+                col.hide_viewport = viewport
+                col.hide_render = render
+            for layer, viewport in layers: layer.hide_viewport = viewport
         update_details(scene)
 
 
