@@ -11,6 +11,9 @@ positions fit longitude/latitude ranges. Small local coordinates are ambiguous;
 declare local explicitly. Exterior footprints are returned without a repeated
 closing point, counterclockwise. Interior rings are intentionally not modelled.
 Recoverable input problems are listed in the returned ``warnings`` list.
+Explicit tree, power pole/tower and traffic-signal points are preserved in
+``street_features`` as kind, point (local metres), osm_id and source tags.
+Missing point features remain absent; decorative placements are not inferred.
 """
 
 from __future__ import annotations
@@ -247,8 +250,31 @@ def _truthy_tag(value):
     return value is not None and str(value).lower() not in {"", "no", "false", "0", "none"}
 
 
+def _street_kind(props):
+    """Only explicit mapped point tags identify actual street features."""
+    if props.get("natural") == "tree":
+        return "trees"
+    if props.get("power") in ("pole", "tower"):
+        return "utility_poles"
+    if props.get("highway") == "traffic_signals":
+        return "traffic_lights"
+    return None
+
+
+def _source_tags(props):
+    return {key: value for key, value in props.items() if key != "tags"}
+
+
+def _building_tags(props):
+    # Preserve semantic tags without altering the legacy untagged schema.
+    if any(key in props for key in ("building", "building:part", "building:use",
+                                    "use", "amenity", "shop", "office")):
+        return {"tags": _source_tags(props)}
+    return {}
+
+
 def _empty_scene(system, origin, attribution):
-    return {"buildings": [], "roads": [], "coordinate_system": system,
+    return {"buildings": [], "roads": [], "street_features": [], "coordinate_system": system,
             "origin": origin, "attribution": attribution, "warnings": []}
 
 
@@ -316,7 +342,30 @@ def _load_geojson(data, requested, origin):
         if not isinstance(kind, str):
             warnings.append(f"{label}: skipped missing or malformed geometry type")
             continue
-        if kind in {"Polygon", "MultiPolygon"}:
+        if kind in {"Point", "MultiPoint"}:
+            street_kind = _street_kind(props)
+            if street_kind is None:
+                continue
+            raw_points = [coordinates] if kind == "Point" else coordinates
+            if not isinstance(raw_points, (list, tuple)):
+                warnings.append(f"{label}: skipped malformed point coordinates")
+                continue
+            for raw in raw_points:
+                point = _position(raw)
+                if point is None:
+                    warnings.append(f"{label}: skipped invalid street-feature coordinate")
+                    continue
+                try:
+                    point = transform(point)
+                except ValueError as exc:
+                    warnings.append(f"{label}: skipped street feature: {exc}")
+                    continue
+                scene["street_features"].append({
+                    "kind": street_kind, "point": point,
+                    "osm_id": props.get("osm_id", props.get("@id", feature.get("id"))),
+                    "tags": _source_tags(props),
+                })
+        elif kind in {"Polygon", "MultiPolygon"}:
             if "building" in props and not _truthy_tag(props["building"]) and not _truthy_tag(props.get("building:part")):
                 continue
             if props.get("landuse") and not (_truthy_tag(props.get("building")) or _truthy_tag(props.get("building:part"))):
@@ -339,7 +388,8 @@ def _load_geojson(data, requested, origin):
                 if footprint is not None:
                     scene["buildings"].append({"name": part_label, "footprint": footprint,
                                                "height": heights[0], "min_height": heights[1],
-                                               "osm_id": props.get("osm_id"), "height_source": props.get("height_source", "unspecified")})
+                                               "osm_id": props.get("osm_id"), "height_source": props.get("height_source", "unspecified"),
+                                               **_building_tags(props)})
         elif kind in {"LineString", "MultiLineString"}:
             lines = [coordinates] if kind == "LineString" else coordinates
             if not isinstance(lines, (list, tuple)):
@@ -350,7 +400,7 @@ def _load_geojson(data, requested, origin):
                 part_label = f"{label} {part + 1}" if len(lines) > 1 else label
                 points = _clean_points(line, transform, False, part_label, warnings)
                 if points is not None:
-                    scene["roads"].append({"name": part_label, "points": points, "width": width, "osm_id": props.get("osm_id"), "highway": props.get("highway", ""), "oneway": str(props.get("oneway", ""))})
+                    scene["roads"].append({"name": part_label, "points": points, "width": width, "osm_id": props.get("osm_id"), "highway": props.get("highway", ""), "oneway": str(props.get("oneway", "")), "tags": _source_tags(props)})
         else:
             warnings.append(f"{label}: skipped unsupported geometry type {kind!r}")
     return scene
@@ -373,6 +423,14 @@ def _load_osm(root, requested, origin):
     scene = _empty_scene("wgs84", origin, OSM_ATTRIBUTION)
     scene["warnings"] = warnings
     transform = lambda p: project_lonlat(p[0], p[1], origin)
+    for node in root.findall("node"):
+        props = {tag.get("k"): tag.get("v") for tag in node.findall("tag")}
+        kind = _street_kind(props)
+        if kind is not None and node.get("id") in nodes:
+            scene["street_features"].append({
+                "kind": kind, "point": transform(nodes[node.get("id")]),
+                "osm_id": node.get("id"), "tags": props,
+            })
     for way in root.findall("way"):
         props = {tag.get("k"): tag.get("v") for tag in way.findall("tag")}
         building = _truthy_tag(props.get("building")) or _truthy_tag(props.get("building:part"))
@@ -394,13 +452,15 @@ def _load_osm(root, requested, origin):
             footprint = _clean_points(raw, transform, True, label, warnings)
             if heights is not None and footprint is not None:
                 scene["buildings"].append({"name": label, "footprint": footprint,
-                                           "height": heights[0], "min_height": heights[1]})
+                                           "height": heights[0], "min_height": heights[1],
+                                           "osm_id": way.get("id"), **_building_tags(props)})
         elif road:
             points = _clean_points(raw, transform, False, label, warnings)
             if points is not None:
                 scene["roads"].append({"name": label, "points": points,
                                        "width": _road_width(props, label, warnings), "highway": props.get("highway", ""),
-                                       "oneway": str(props.get("oneway", "")), "osm_id": way.get("id")})
+                                       "oneway": str(props.get("oneway", "")), "osm_id": way.get("id"),
+                                       "tags": _source_tags(props)})
     for relation in root.findall("relation"):
         props = {tag.get("k"): tag.get("v") for tag in relation.findall("tag")}
         if _truthy_tag(props.get("building")) or _truthy_tag(props.get("building:part")):

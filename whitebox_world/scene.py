@@ -56,7 +56,7 @@ def building(name,footprint,height,col,min_height=0):
 
 def road(name,points,width,col):
     for i,(a,b) in enumerate(zip(points,points[1:])):
-        d=math.dist(a[:2],b[:2]); o=cube(f'{name}_{i}',((a[0]+b[0])/2,(a[1]+b[1])/2,.025+len(col.objects)*.0001),(d,width,.05),'road',col);o.rotation_euler.z=math.atan2(b[1]-a[1],b[0]-a[0])
+        d=math.dist(a[:2],b[:2]); o=cube(f'{name}_{i}',((a[0]+b[0])/2,(a[1]+b[1])/2,.025+.02*len(col.objects)/(1000+len(col.objects))),(d,width,.05),'road',col);o.rotation_euler.z=math.atan2(b[1]-a[1],b[0]-a[0])
 
 
 def tree(x,y,size,col,rng):
@@ -115,14 +115,17 @@ def build(config):
         if c.name.startswith('WW_'):
             for o in list(c.objects):bpy.data.objects.remove(o,do_unlink=True)
             bpy.data.collections.remove(c)
-    cols={n:collection('WW_'+n) for n in ('Terrain','Buildings','Vegetation','Roads','Actors','Paths','Lighting','Cameras','Weather')}
+    cols={n:collection('WW_'+n) for n in ('Terrain','Buildings','Vegetation','Roads','Actors','Paths','Lighting','Cameras','Weather','Facades','Trees','RoadMarkings','UtilityPoles','TrafficLights')}
     s=bpy.context.scene; s.unit_settings.system='METRIC';s.unit_settings.scale_length=1;s.render.fps=int(config.get('fps',24));s.frame_start=1;s.frame_end=round(float(config.get('duration',12))*s.render.fps)
     s['ww_seed']=int(config.get('seed',42));s['ww_active_biome']=config.get('biome','city');s['ww_sun_elevation']=float(config.get('sun_elevation',35));s['ww_sun_azimuth']=float(config.get('sun_azimuth',135));s['ww_active_weather']=config.get('weather','clear');s['ww_config']=json.dumps(config,ensure_ascii=False)
+    from .detail_runtime import setup
+    setup(s, config)
+    detail_roads=[];detail_buildings=[]
     rng=random.Random(s['ww_seed']);size=float(config.get('size',160));h=size/2;biome=s['ww_active_biome']
     cube('Ground',(0,0,-.22),(size,size,.4),'sand' if biome=='beach' else 'ground',cols['Terrain'])
     if biome in ('city','mixed') and map_data is None:
         road('Main_Road',[[-h,0],[h*.45 if biome=='mixed' else h,0]],10,cols['Roads']);road('Cross_Road',[[0,-h],[0,h]],10,cols['Roads'])
-        for x in range(-int(h)+5,int(h*.45 if biome=='mixed' else h),9): cube('Lane_Marking',(x,0,.062),(4,.16,.012),'line',cols['Roads'])
+        detail_roads=[{'points':[[-h,0],[h*.45 if biome=='mixed' else h,0]],'width':10}, {'points':[[0,-h],[0,h]],'width':10}]
         for x in range(-int(h)+12,int(h)-8,19):
             for y in range(-int(h)+12,int(h)-8,19):
                 if abs(x)<13 or abs(y)<13 or (biome=='mixed' and x>15):continue
@@ -136,7 +139,7 @@ def build(config):
         for i in range(int(config.get('trees',90 if biome=='forest' else 28))):
             x,y=rng.uniform(-h+5,h-5),rng.uniform(-h+5,h-5)
             if abs(y)<10 or (biome=='mixed' and (x<12 or x>h*.42)) or (biome=='beach' and x>0):continue
-            tree(x,y,rng.uniform(3,8),cols['Vegetation'],rng)
+            tree(x,y,rng.uniform(3,8),cols['Trees'],rng)
         for i in range(24):
             x,y=rng.uniform(-h,h),rng.uniform(-h,h)
             if abs(y)<9 or (biome in ('mixed','beach') and x>h*.4):continue
@@ -159,14 +162,30 @@ def build(config):
             for o in list(cols[key].objects):bpy.data.objects.remove(o,do_unlink=True)
         for b in data['buildings']:
             o=building(b['name'],b['footprint'],b['height'],cols['Buildings'],b.get('min_height',0))
+            if o:o['ww_source_tags']=json.dumps(b.get('tags',{}))
             if o and b.get('osm_id'):
                 o['osm_id']=str(b['osm_id']);o['height_source']=b.get('height_source','unspecified')
         for r in data['roads']:road(r['name'],r['points'],r['width'],cols['Roads'])
+        detail_roads=data['roads'];detail_buildings=data['buildings']
         s['ww_map_provenance']=json.dumps(data.get('provenance',{}),ensure_ascii=False);s['ww_map_limitations']=json.dumps(data.get('limitations',{}),ensure_ascii=False)
         import pathlib
         txt=bpy.data.texts.get('WW_MapSource.geojson') or bpy.data.texts.new('WW_MapSource.geojson');txt.clear();txt.write(pathlib.Path(config['map_file']).read_text())
         bpy.data.objects['Ground']['map_attribution']=data.get('attribution','');bpy.data.objects['Ground']['map_license']='https://opendatacommons.org/licenses/odbl/1-0/';bpy.data.objects['Ground']['map_limitations']=s['ww_map_limitations']
         s['ww_map_attribution']=data.get('attribution','');s['ww_map_warnings']=json.dumps(data.get('warnings',[]))
+    # Native editable detail layers. Imported OSM metadata is kept on shells.
+    if not detail_buildings:
+        detail_buildings=[{'footprint':[(v.co.x,v.co.y) for v in o.data.vertices[:len(o.data.vertices)//2]],'height':max(v.co.z for v in o.data.vertices)} for o in cols['Buildings'].objects]
+    from .facades import add_facades
+    from .street_details import add_street_details
+    details_config={**config,'_detail_roads':detail_roads}
+    add_facades(list(cols['Buildings'].objects),cols['Facades'],details_config)
+    if detail_roads:
+        metadata=add_street_details(detail_roads,detail_buildings,cols,config,(map_data or {}).get('street_features',[]))
+        s['ww_street_details']=json.dumps(metadata,ensure_ascii=False)
+    for o in cols['Trees'].objects:
+        if not o.get('ww_feature'):o['ww_feature']='trees'
+    from .detail_runtime import group_details
+    group_details(s)
     actors=config.get('actors',[{'name':'Walker_A','kind':'person','speed':1.4,'path':[[-h*.7,-8,0],[h*.4 if biome=='mixed' else h*.15 if biome=='beach' else h*.7,-8,0]]},{'name':'Walker_B','kind':'person','speed':2.1,'offset':18,'path':[[-h*.7,-9,0],[h*.4 if biome=='mixed' else h*.15 if biome=='beach' else h*.7,-9,0]]},{'name':'Car_A','kind':'vehicle','speed':6,'path':[[-h*.75,-2.5,0],[h*.4 if biome=='mixed' else h*.15 if biome=='beach' else h*.75,-2.5,0]]}])
     for spec in actors:actor(spec,cols['Actors'],cols['Paths'])
     light=bpy.data.lights.new('WW_Sun','SUN');o=bpy.data.objects.new('WW_Sun',light);cols['Lighting'].objects.link(o);light.angle=math.radians(12)
@@ -175,4 +194,6 @@ def build(config):
     s.world=bpy.data.worlds.new('WW_World');s.world.use_nodes=True;s.view_settings.view_transform='AgX'
     from .runtime import update_environment,update_actors,install_handler,sync_panel
     sync_panel(s);update_environment(s);install_handler();update_actors(s);s.frame_set(1)
+    from .detail_runtime import install,update_details
+    install();update_details(s)
     return s

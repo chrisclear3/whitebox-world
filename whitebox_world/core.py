@@ -28,6 +28,12 @@ def validate_config(config):
         raise ValueError('fps must be 1–120')
     if not 1 <= float(config.get('duration',12)) <= 600:
         raise ValueError('duration must be 1–600 seconds')
+    if config.get('lod_mode','AUTO') not in ('AUTO','ALL','COARSE','FROZEN'):
+        raise ValueError('Unknown detail LOD mode')
+    if config.get('export_detail','CURRENT') not in ('CURRENT','ALL','COARSE'):
+        raise ValueError('Unknown export detail mode')
+    if not 1 <= float(config.get('lod_distance',85)) <= 10000:
+        raise ValueError('lod_distance must be 1–10000 meters')
     for actor in config.get('actors',[]):
         if actor.get('kind','person') not in ('person','vehicle'):
             raise ValueError('Actor kind must be person or vehicle')
