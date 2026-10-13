@@ -1,0 +1,410 @@
+Warning: truncated output (original token count: 48641)
+Total output lines: 2891
+
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+01:30:11 | INFO: Starting glTF 2.0 export
+01:30:11 | INFO: Extracting primitive: Cube.001
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 旧西武渋谷店A館
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷駅前会館(飯島ビル)
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/60739633
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷駅前ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷マークシティEAST
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷第一勧銀共同ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: ビックカメラ
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/116806276
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: FPG Links Shibuya
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷パークサイド共同ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: MAGNET SHIBUYA
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/120105790
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/120105799
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/120105802
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/120105807
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 江島屋ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 高木ビルディング
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/129061825
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587679
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587688
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587710
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587715
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 岩崎ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587722
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587734
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587748
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 釜焼鳥本舗 おやひなや
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 藤山恒産第一ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587820
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587824
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587831
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587833
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136587839
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690943
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: マツモトキヨシ
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690946
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690947
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690948
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690950
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690954
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690963
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690966
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690967
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136690969
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: ABCマート
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691343
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: センタービル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691347
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691350
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691352
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691360
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691361
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 好乃ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691365
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691366
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: ダッキープラザ
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 鉄人門渋ビルヂング
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: センター244ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691381
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷ブラザービル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/136691384
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Q-FRONT
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 横田ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷平和クワトロビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: Zara
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 渋谷住友信託ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 片倉コープアグリ渋谷ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 丸大ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670865
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670868
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670870
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670882
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670888
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670889
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670891
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/138670898
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/142438894
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/142438895
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155538676
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155749492
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807205
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807209
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807210
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807211
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807215
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/155807221
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/355250634
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/521569271
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/548299162
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/551944268
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/749184350
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/844691964
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/858994297
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/904652318
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1233446447
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1233446448
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: 美奈津ビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: メトロビル
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1333090439
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1333409426
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1333409427
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: しぶにしデッキ
+01:30:11 | INFO: Primitives created: 1
+01:30:11 | INFO: Extracting primitive: way/1335178869
+01:30:11 | INFO: Primitives created: 1
+0…43641 tokens truncated…be.427
+01:31:03 | INFO: Blender create Mesh node Cube.428
+01:31:03 | INFO: Blender create Mesh node Cube.429
+01:31:03 | INFO: Blender create Mesh node Cube.430
+01:31:03 | INFO: Blender create Mesh node Cube.431
+01:31:03 | INFO: Blender create Mesh node Cube.432
+01:31:03 | INFO: Blender create Mesh node Cube.433
+01:31:03 | INFO: Blender create Mesh node Cube.434
+01:31:03 | INFO: Blender create Mesh node Cube.435
+01:31:03 | INFO: Blender create Mesh node Cube.436
+01:31:03 | INFO: Blender create Mesh node Cube.437
+01:31:03 | INFO: Blender create Mesh node Cube.438
+01:31:03 | INFO: Blender create Mesh node Cube.439
+01:31:03 | INFO: Blender create Mesh node Cube.440
+01:31:03 | INFO: Blender create Mesh node Cube.441
+01:31:03 | INFO: Blender create Mesh node Cube.442
+01:31:03 | INFO: Blender create Mesh node Cube.443
+01:31:03 | INFO: Blender create Mesh node Cube.444
+01:31:03 | INFO: Blender create Mesh node Cube.445
+01:31:03 | INFO: Blender create Mesh node Cube.446
+01:31:03 | INFO: Blender create Mesh node Cube.447
+01:31:03 | INFO: Blender create Mesh node Cube.448
+01:31:03 | INFO: Blender create Mesh node Cube.449
+01:31:03 | INFO: Blender create Mesh node Cube.450
+01:31:03 | INFO: Blender create Mesh node Cube.451
+01:31:03 | INFO: Blender create Mesh node Cube.452
+01:31:03 | INFO: Blender create Mesh node Cube.453
+01:31:03 | INFO: Blender create Mesh node Cube.454
+01:31:03 | INFO: Blender create Mesh node Cube.455
+01:31:03 | INFO: Blender create Mesh node Cube.456
+01:31:03 | INFO: Blender create Mesh node Cube.457
+01:31:03 | INFO: Blender create Mesh node Cube.458
+01:31:03 | INFO: Blender create Mesh node Cube.459
+01:31:03 | INFO: Blender create Mesh node Cube.460
+01:31:03 | INFO: Blender create Mesh node Cube.461
+01:31:03 | INFO: Blender create Mesh node Cube.462
+01:31:03 | INFO: Blender create Mesh node Cube.463
+01:31:03 | INFO: Blender create Mesh node Cube.464
+01:31:03 | INFO: Blender create Mesh node Cube.465
+01:31:03 | INFO: Blender create Mesh node Cube.466
+01:31:03 | INFO: Blender create Mesh node Cube.467
+01:31:03 | INFO: Blender create Mesh node Cube.468
+01:31:03 | INFO: Blender create Mesh node Cube.469
+01:31:03 | INFO: Blender create Mesh node Cube.470
+01:31:03 | INFO: Blender create Mesh node Cube.471
+01:31:03 | INFO: Blender create Mesh node Cube.472
+01:31:03 | INFO: Blender create Mesh node Cube.473
+01:31:03 | INFO: Blender create Mesh node Cube.474
+01:31:03 | INFO: Blender create Mesh node Cube.475
+01:31:03 | INFO: Blender create Mesh node Cube.476
+01:31:03 | INFO: Blender create Mesh node Cube.477
+01:31:03 | INFO: Blender create Mesh node Cube.478
+01:31:03 | INFO: Blender create Mesh node Cube.479
+01:31:03 | INFO: Blender create Mesh node Cube.480
+01:31:03 | INFO: Blender create Mesh node Cube.481
+01:31:03 | INFO: Blender create Mesh node Cube.482
+01:31:03 | INFO: Blender create Mesh node Cube.483
+01:31:03 | INFO: Blender create Mesh node Cube.484
+01:31:03 | INFO: Blender create Mesh node Cube.485
+01:31:03 | INFO: Blender create Mesh node Cube.486
+01:31:03 | INFO: Blender create Mesh node Cube.487
+01:31:03 | INFO: Blender create Mesh node Cube.488
+01:31:03 | INFO: Blender create Mesh node Cube.489
+01:31:03 | INFO: Blender create Mesh node Cube.490
+01:31:03 | INFO: Blender create Mesh node Cube.491
+01:31:03 | INFO: Blender create Mesh node Cube.492
+01:31:03 | INFO: Blender create Mesh node Cube.493
+01:31:03 | INFO: Blender create Mesh node Cube.494
+01:31:03 | INFO: Blender create Mesh node Cube.495
+01:31:03 | INFO: Blender create Mesh node Cube.496
+01:31:03 | INFO: Blender create Mesh node Cube.497
+01:31:03 | INFO: Blender create Mesh node Cube.498
+01:31:03 | INFO: Blender create Mesh node Cube.499
+01:31:03 | INFO: Blender create Mesh node Cube.500
+01:31:03 | INFO: Blender create Mesh node Cube.501
+01:31:03 | INFO: Blender create Mesh node Cube.502
+01:31:03 | INFO: Blender create Mesh node Cube.503
+01:31:03 | INFO: Blender create Mesh node Cube.504
+01:31:03 | INFO: Blender create Mesh node Cube.505
+01:31:03 | INFO: Blender create Mesh node Cube.506
+01:31:03 | INFO: Blender create Mesh node Cube.507
+01:31:03 | INFO: Blender create Mesh node Cube.508
+01:31:03 | INFO: Blender create Mesh node Cube.509
+01:31:03 | INFO: Blender create Mesh node Cube.510
+01:31:03 | INFO: Blender create Mesh node Cube.511
+01:31:03 | INFO: Blender create Mesh node Cube.512
+01:31:03 | INFO: Blender create Mesh node Cube.513
+01:31:03 | INFO: Blender create Mesh node Cube.514
+01:31:03 | INFO: Blender create Mesh node Cube.515
+01:31:03 | INFO: Blender create Mesh node Cube.516
+01:31:03 | INFO: Blender create Mesh node Cube.517
+01:31:03 | INFO: Blender create Mesh node Cube.518
+01:31:03 | INFO: Blender create Mesh node Cube.519
+01:31:03 | INFO: Blender create Mesh node Cube.520
+01:31:03 | INFO: Blender create Mesh node Cube.521
+01:31:03 | INFO: Blender create Mesh node Cube.522
+01:31:03 | INFO: Blender create Mesh node Cube.523
+01:31:03 | INFO: Blender create Mesh node Cube.524
+01:31:03 | INFO: Blender create Mesh node Cube.525
+01:31:03 | INFO: Blender create Mesh node Cube.526
+01:31:03 | INFO: Blender create Mesh node Cube.527
+01:31:03 | INFO: Blender create Mesh node Cube.528
+01:31:03 | INFO: Blender create Mesh node Cube.529
+01:31:03 | INFO: Blender create Mesh node Cube.530
+01:31:03 | INFO: Blender create Mesh node Cube.531
+01:31:03 | INFO: Blender create Mesh node Cube.532
+01:31:03 | INFO: Blender create Mesh node Cube.533
+01:31:03 | INFO: Blender create Mesh node Cube.534
+01:31:03 | INFO: Blender create Mesh node Cube.535
+01:31:03 | INFO: Blender create Mesh node Cube.536
+01:31:04 | INFO: Blender create Mesh node Cube.537
+01:31:04 | INFO: Blender create Mesh node Cube.538
+01:31:04 | INFO: Blender create Mesh node Cube.539
+01:31:04 | INFO: Blender create Mesh node Cube.540
+01:31:04 | INFO: Blender create Mesh node Cube.541
+01:31:04 | INFO: Blender create Mesh node Cube.542
+01:31:04 | INFO: Blender create Mesh node Cube.543
+01:31:04 | INFO: Blender create Mesh node Cube.544
+01:31:04 | INFO: Blender create Mesh node Cube.545
+01:31:04 | INFO: Blender create Mesh node Cube.546
+01:31:04 | INFO: Blender create Mesh node Cube.547
+01:31:04 | INFO: Blender create Mesh node Cube.548
+01:31:04 | INFO: Blender create Mesh node Cube.549
+01:31:04 | INFO: Blender create Mesh node Cube.550
+01:31:04 | INFO: Blender create Mesh node Cube.551
+01:31:04 | INFO: Blender create Mesh node Cube.552
+01:31:04 | INFO: Blender create Mesh node Cube.553
+01:31:04 | INFO: Blender create Mesh node Cube.554
+01:31:04 | INFO: Blender create Mesh node Cube.555
+01:31:04 | INFO: Blender create Mesh node Cube.556
+01:31:04 | INFO: Blender create Mesh node Cube.557
+01:31:04 | INFO: Blender create Mesh node Cube.558
+01:31:04 | INFO: Blender create Mesh node Cube.559
+01:31:04 | INFO: Blender create Mesh node Cube.560
+01:31:04 | INFO: Blender create Mesh node Cube.561
+01:31:04 | INFO: Blender create Mesh node Cube.562
+01:31:04 | INFO: Blender create Mesh node Cube.563
+01:31:04 | INFO: Blender create Mesh node Cube.564
+01:31:04 | INFO: Blender create Mesh node Cube.565
+01:31:04 | INFO: Blender create Mesh node Cube.566
+01:31:04 | INFO: Blender create Mesh node Cube.567
+01:31:04 | INFO: Blender create Mesh node Cube.568
+01:31:04 | INFO: Blender create Mesh node Cube.569
+01:31:04 | INFO: Blender create Mesh node Cube.570
+01:31:04 | INFO: Blender create Mesh node Cube.571
+01:31:04 | INFO: Blender create Mesh node Cube.572
+01:31:04 | INFO: Blender create Mesh node Cube.573
+01:31:04 | INFO: Blender create Mesh node Cube.574
+01:31:04 | INFO: Blender create Mesh node Cube.575
+01:31:04 | INFO: Blender create Mesh node Cube.576
+01:31:04 | INFO: Blender create Mesh node Cube.577
+01:31:04 | INFO: Blender create Mesh node Cube.578
+01:31:04 | INFO: Blender create Mesh node Cube.579
+01:31:04 | INFO: Blender create Mesh node Cube.580
+01:31:04 | INFO: Blender create Mesh node Cube.581
+01:31:04 | INFO: Blender create Mesh node Cube.582
+01:31:04 | INFO: Blender create Mesh node Cube.583
+01:31:04 | INFO: Blender create Mesh node Cube.584
+01:31:04 | INFO: Blender create Mesh node Cube.585
+01:31:04 | INFO: Blender create Mesh node Cube.586
+01:31:04 | INFO: Blender create Mesh node Cube.587
+01:31:04 | INFO: Blender create Mesh node Cube.588
+01:31:04 | INFO: Blender create Mesh node Cube.589
+01:31:04 | INFO: Blender create Mesh node Cube.590
+01:31:04 | INFO: Blender create Mesh node Cube.591
+01:31:04 | INFO: Blender create Mesh node Cube.592
+01:31:04 | INFO: Blender create Mesh node Cube.593
+01:31:04 | INFO: Blender create Mesh node Cube.594
+01:31:04 | INFO: Blender create Mesh node Cube.595
+01:31:04 | INFO: Blender create Mesh node Cube.596
+01:31:04 | INFO: Blender create Mesh node Cube.597
+01:31:04 | INFO: Blender create Mesh node Cube.598
+01:31:04 | INFO: Blender create Mesh node Cube.599
+01:31:04 | INFO: Blender create Mesh node Cube.600
+01:31:04 | INFO: Blender create Mesh node Cube.601
+01:31:04 | INFO: Blender create Mesh node Cube.602
+01:31:04 | INFO: Blender create Mesh node Cube.603
+01:31:04 | INFO: Blender create Mesh node Cube.604
+01:31:04 | INFO: Blender create Mesh node Cube.605
+01:31:04 | INFO: Blender create Mesh node Cube.608
+01:31:04 | INFO: Blender create Mesh node Cube.610
+01:31:04 | INFO: Blender create Mesh node Icosphere
+01:31:04 | INFO: Blender create Mesh node Cube.607
+01:31:04 | INFO: Blender create Mesh node Cube.609
+01:31:04 | INFO: Blender create Mesh node Cube.606
+01:31:04 | INFO: Blender create Mesh node Cube.611
+01:31:04 | INFO: Blender create Mesh node Cube.612
+01:31:04 | INFO: Blender create Mesh node Cube.613
+01:31:04 | INFO: Blender create Mesh node Cube.614
+01:31:04 | INFO: Blender create Mesh node Cylinder
+01:31:04 | INFO: Blender create Mesh node Cylinder.001
+01:31:04 | INFO: Blender create Mesh node Cylinder.002
+01:31:04 | INFO: Blender create Mesh node Cylinder.003
+01:31:04 | INFO: glTF import finished in 1.80s
+SHIBUYA_INTEGRATION_OK: 105 real buildings, provenance, strict failure before deletion, actor motion, attributed GLB, reimport
+
+Blender quit
