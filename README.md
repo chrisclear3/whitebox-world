@@ -6,7 +6,19 @@
 
 默认真实城市示例：[渋谷 300m 街区与新增城市说明](docs/REAL_CITY_DATA.md)。数据来自与 Rokehan 相同的公开 OSM 数据包。© OpenStreetMap contributors，ODbL 1.0；地形仍为平地。
 
-## v0.3 可编辑细节
+## v0.4 建筑家族与真实窗洞
+
+立面改为用途／体量分类、分层分间与建筑模块，支持住宅、公寓、办公格窗、水平带窗、仓库、零售、玻璃幕墙及实墙八类。支持稳定种子、用途标签和逐栋手动覆盖；幕墙采用连续竖梃与深色层间板，带窗办公楼保留实体水平墙带。
+
+近景采用真正移除窗洞区域的墙面及内凹玻璃；原始完整体块保存为互斥的远景表示。切换相机距离、开关与冻结只改集合显示，保留两套网格的手工编辑。立面是程序设计推断，不代表测绘恢复。详见 [建筑立面使用与边界说明](docs/FACADE_ARCHITECTURE_ZH.md)。
+
+![八种建筑立面对比](artifacts/facade_v04/facade_families.png)
+
+![真实渋谷街区的新立面](artifacts/facade_v04/shibuya_facade_street.png)
+
+新场景位于 `artifacts/facade_v04/facade_families.blend` 与 `shibuya_facades.blend`，随模型附件交付。可分别运行 `scripts/render_facade_families.py` 与 `scripts/render_facade_shibuya.py` 离线重建，GLB 是固定 LOD 快照。原 v0.3 文件保留供比较。
+
+## v0.3 可编辑街道细节（继续保留）
 
 新增几何窗框/阳台/底商，独立树木、画线、电杆、信号灯开关，以及场景相机距离近细远简。在完整交付包中打开 `artifacts/shibuya_details.blend`；完整控制、导出与准确性边界见 [细节与 LOD 使用说明](docs/EDITABLE_DETAILS.md)。
 
@@ -97,7 +109,7 @@ python scripts/fetch_osm.py --help
 - 雾：Blender 体积材质；雨：确定性几何雨丝的静态视觉预览，尚无雨滴粒子动力学或湿地反射系统。
 - `.blend` 保留网格、父子层级、路径、相机、光照和烘焙关键帧；实时控制需要安装插件。没有插件时，仍可播放烘焙动画。
 - GLB 导出网格、层级和采样动画；体积雾与 Blender 世界光不会按原样传到 glTF。不同查看器对相机/灯光支持不同。
-- 这是独立编写的 Blender-first v0.3，不是 Rokehan 网站的源码复制或全部 Web 功能复刻。功能思路受 [Rokehan](https://tools.oyasumi-gamedev.com/rokehan/) 的地图白模流程启发；未发现应用源码明确再发布授权，因此未使用其代码或素材。
+- 这是独立编写的 Blender-first v0.4，不是 Rokehan 网站的源码复制或全部 Web 功能复刻。功能思路受 [Rokehan](https://tools.oyasumi-gamedev.com/rokehan/) 的地图白模流程启发；未发现应用源码明确再发布授权，因此未使用其代码或素材。
 
 ## 测试
 
