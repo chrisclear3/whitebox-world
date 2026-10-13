@@ -1,0 +1,84 @@
+{
+  "biome": "mixed",
+  "size": 150,
+  "seed": 42,
+  "duration": 8,
+  "fps": 24,
+  "weather": "clear",
+  "sun_elevation": 38,
+  "sun_azimuth": 145,
+  "actors": [
+    {
+      "name": "Walker_A",
+      "kind": "person",
+      "speed": 1.4,
+      "offset": 22,
+      "path": [
+        [
+          -60,
+          -8,
+          0
+        ],
+        [
+          30,
+          -8,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Walker_B",
+      "kind": "person",
+      "speed": 2.2,
+      "offset": 60,
+      "path": [
+        [
+          -60,
+          -10,
+          0
+        ],
+        [
+          30,
+          -10,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Car_A",
+      "kind": "vehicle",
+      "speed": 6,
+      "offset": 15,
+      "path": [
+        [
+          -65,
+          -2.5,
+          0
+        ],
+        [
+          30,
+          -2.5,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Car_B",
+      "kind": "vehicle",
+      "speed": 9,
+      "offset": 33,
+      "path": [
+        [
+          30,
+          2.5,
+          0
+        ],
+        [
+          -65,
+          2.5,
+          0
+        ]
+      ]
+    }
+  ]
+}
