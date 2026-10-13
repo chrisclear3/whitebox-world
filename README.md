@@ -6,6 +6,14 @@
 
 默认真实城市示例：[渋谷 300m 街区与新增城市说明](docs/REAL_CITY_DATA.md)。数据来自与 Rokehan 相同的公开 OSM 数据包。© OpenStreetMap contributors，ODbL 1.0；地形仍为平地。
 
+## v0.3 可编辑细节
+
+新增几何窗框/阳台/底商，独立树木、画线、电杆、信号灯开关，以及场景相机距离近细远简。在完整交付包中打开 `artifacts/shibuya_details.blend`；完整控制、导出与准确性边界见 [细节与 LOD 使用说明](docs/EDITABLE_DETAILS.md)。
+
+GitHub 仓库保存源码、插件和预览图；新增大型 `.blend` / `.glb` 在单独交付的完整 ZIP/原生附件中，不随本次仓库上传。也可运行 `scripts/build_scene.py` 在本地生成。
+
+![街景细节](artifacts/shibuya_street_details.png)
+
 ## 立即打开
 
 - `artifacts/shibuya.blend`：真实渋谷建筑/道路、人车动画；附 `.glb`、`.png` 和 `.poses.json`。
@@ -89,7 +97,7 @@ python scripts/fetch_osm.py --help
 - 雾：Blender 体积材质；雨：确定性几何雨丝的静态视觉预览，尚无雨滴粒子动力学或湿地反射系统。
 - `.blend` 保留网格、父子层级、路径、相机、光照和烘焙关键帧；实时控制需要安装插件。没有插件时，仍可播放烘焙动画。
 - GLB 导出网格、层级和采样动画；体积雾与 Blender 世界光不会按原样传到 glTF。不同查看器对相机/灯光支持不同。
-- 这是独立编写的 Blender-first v0.1，不是 Rokehan 网站的源码复制或全部 Web 功能复刻。功能思路受 [Rokehan](https://tools.oyasumi-gamedev.com/rokehan/) 的地图白模流程启发；未发现应用源码明确再发布授权，因此未使用其代码或素材。
+- 这是独立编写的 Blender-first v0.3，不是 Rokehan 网站的源码复制或全部 Web 功能复刻。功能思路受 [Rokehan](https://tools.oyasumi-gamedev.com/rokehan/) 的地图白模流程启发；未发现应用源码明确再发布授权，因此未使用其代码或素材。
 
 ## 测试
 
